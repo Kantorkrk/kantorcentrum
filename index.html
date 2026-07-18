@@ -147,7 +147,11 @@
 <input id="amount" type="number" placeholder="np. 1000" required>
 
 <br><br>
-
+    <br><br>
+<button type="button" onlick="calculate()">
+    sprawdź wartość
+</button>
+    <p id="result"></p>
 <p>
 ⏰ Rezerwacja kursu ważna do godziny od złożenia rezerwacji.
 </p>
@@ -189,5 +193,53 @@ window.open(
 
 }
 </script>
+
+    <script>
+
+const rates = {
+    EUR: {
+        buy: 4.24,
+        sell: 4.28
+    },
+    USD: {
+        buy: 3.63,
+        sell: 3.68
+    },
+    GBP: {
+        buy: 4.92,
+        sell: 4.99
+    },
+    CHF: {
+        buy: 4.50,
+        sell: 4.57
+    }
+};
+
+
+function calculate(){
+
+let type = document.getElementById("type").value;
+let currency = document.getElementById("currency").value;
+let amount = Number(document.getElementById("amount").value);
+
+let rate;
+
+if(type=="Kupuję walutę"){
+    rate = rates[currency].sell;
+}
+else{
+    rate = rates[currency].buy;
+}
+
+let result = amount * rate;
+
+document.getElementById("result").innerHTML =
+"Kurs: " + rate.toFixed(2) + 
+"<br>Wartość: " + result.toFixed(2) + " PLN";
+
+}
+
+</script>
+
 </body>
 </html>
