@@ -128,13 +128,7 @@
 
 <label>Waluta:</label><br>
 <select id="currency">
-<option>EUR</option>
-<option>USD</option>
-<option>GBP</option>
-<option>CHF</option>
-<option>NOK</option>
-<option>SEK</option>
-<option>Inna</option>
+
 </select>
 
 <br><br>
@@ -222,6 +216,22 @@ document.getElementById("result").innerHTML =
 
     <script src="kursy.js"></script>
 
+    <script>
+
+let currencySelect = document.getElementById("currency");
+
+currencies.forEach(function(currency){
+
+let option = document.createElement("option");
+
+option.value = currency.code;
+option.textContent = currency.code;
+
+currencySelect.appendChild(option);
+
+});
+
+</script>
     <script>
 
         function calculate(){
