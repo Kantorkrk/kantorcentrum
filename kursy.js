@@ -11,8 +11,8 @@ const currencies = [
     },
     {
         code: "GBP",
-        buy: 4.92,
-        sell: 4.99
+        buy: 4.94,
+        sell: 5.10
     },
     {
         code: "CHF",
