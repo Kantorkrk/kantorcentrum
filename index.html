@@ -115,37 +115,49 @@
 
 <form>
 
+<form onsubmit="sendWhatsApp(); return false;">
+
 <label>Numer telefonu:</label><br>
-<input type="tel" placeholder="np. 793 17 11 10" required>
+<input id="phone" type="tel" placeholder="np. 600 000 000" required>
+
 <br><br>
 
-<label>Rodzaj transakcji: </label><br>
- <select> 
- <option>Kupuję walutę  
- </option>
-     <option>Sprzedaję walutę
-     </option>
-    </select>
+<label>Rodzaj transakcji:</label><br>
+<select id="type">
+<option>Kupuję walutę</option>
+<option>Sprzedaję walutę</option>
+</select>
+
+<br><br>
+
+<label>Waluta:</label><br>
+<select id="currency">
+<option>EUR</option>
+<option>USD</option>
+<option>GBP</option>
+<option>CHF</option>
+<option>NOK</option>
+<option>SEK</option>
+<option>Inna</option>
+</select>
 
 <br><br>
 
 <label>Kwota:</label><br>
-<input type="number" placeholder="np. 1000">
+<input id="amount" type="number" placeholder="np. 1000" required>
+
 <br><br>
 
 <p>
-    Rezerwacja kursu ważna do godziny od złożenia rezerwacji.
-    <input type="checkbox" required>
-    Akceptuje warunki rezerwacji
+⏰ Rezerwacja kursu ważna do godziny od złożenia rezerwacji.
 </p>
 
-<br><br>
-
 <button class="btn" type="submit">
-Zarezerwuj
+📲 Wyślij rezerwację WhatsApp
 </button>
 
 </form>
+
 
 </div>
 
@@ -155,5 +167,27 @@ Zarezerwuj
 
 </footer>
 
+    <script>
+function sendWhatsApp(){
+
+let phone = document.getElementById("phone").value;
+let type = document.getElementById("type").value;
+let currency = document.getElementById("currency").value;
+let amount = document.getElementById("amount").value;
+
+let message =
+"Dzień dobry, chcę zarezerwować walutę.%0A%0A" +
+"Transakcja: " + type + "%0A" +
+"Waluta: " + currency + "%0A" +
+"Kwota: " + amount + "%0A" +
+"Telefon: " + phone;
+
+window.open(
+"https://wa.me/48793171110?text=" + message,
+"_blank"
+);
+
+}
+</script>
 </body>
 </html>
