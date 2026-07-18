@@ -100,12 +100,8 @@
 <th>Sprzedaż</th>
 </tr>
 
-<tr><td>EUR</td><td>4.26</td><td>4.355</td></tr>
-<tr><td>USD</td><td>3.71</td><td>3.805</td></tr>
-<tr><td>GBP</td><td>4.97</td><td>5.11</td></tr>
-<tr><td>CHF</td><td>4.62</td><td>4.70</td></tr>
-<tr><td>AUD</td><td>2.57</td><td>2.65</td></tr>
-<tr><td>CAD</td><td>2.65</td><td>2.70</td></tr>
+<tbody id="ratesTable">
+</tbody>
 
 </table>
 
@@ -243,6 +239,26 @@ document.getElementById("result").innerHTML =
 
 
     <script src="kursy.js"></script>
+
+    <script>
+
+let table = document.getElementById("ratesTable");
+
+currencies.forEach(function(currency){
+
+let row = 
+<tr>
+<td>${currency.code}</td>
+<td>${currency.buy}</td>
+<td>${currency.sell}</td>
+</tr>
+;
+
+table.innerHTML += row;
+
+});
+
+</script>
     
 </body>
 </html>
