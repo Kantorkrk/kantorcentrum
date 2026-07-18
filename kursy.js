@@ -1,13 +1,13 @@
 const currencies = [
     {
         code: "EUR",
-        buy: 4.24,
-        sell: 4.28
+        buy: 4.26,
+        sell: 4.35
     },
     {
         code: "USD",
-        buy: 3.63,
-        sell: 3.68
+        buy: 3.71,
+        sell: 3.80
     },
     {
         code: "GBP",
