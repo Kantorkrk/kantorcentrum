@@ -1,96 +1,111 @@
-
 <!DOCTYPE html>
 <html lang="pl">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kantor Centrum Kraków</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <style>
-        body{
-            margin:0;
-            font-family:Arial,Helvetica,sans-serif;
-            background:#111;
-            color:white;
-        }
+<title>Kantor Centrum Kraków</title>
 
-        header{
-            background:#000;
-            color:gold;
-            text-align:center;
-            padding:30px;
-            border-bottom:2px solid gold;
-        }
+<style>
 
-        h1{
-            margin:0;
-            font-size:42px;
-        }
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#111;
+    color:white;
+}
 
-        h2{
-            color:gold;
-            text-align:center;
-        }
+header{
+    background:#000;
+    color:gold;
+    text-align:center;
+    padding:30px;
+    border-bottom:2px solid gold;
+}
 
-        .container{
-            width:90%;
-            max-width:1000px;
-            margin:auto;
-            padding:20px;
-        }
+h1{
+    margin:0;
+    font-size:42px;
+}
 
-        table{
-            width:100%;
-            border-collapse:collapse;
-            margin-top:20px;
-        }
+h2{
+    color:gold;
+    text-align:center;
+}
 
-        th{
-            background:gold;
-            color:black;
-            padding:12px;
-        }
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+    padding:20px;
+}
 
-        td{
-            border:1px solid #444;
-            padding:12px;
-            text-align:center;
-        }
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
 
-        tr:hover{
-            background:#222;
-        }
+th{
+    background:gold;
+    color:black;
+    padding:12px;
+}
 
-        .btn{
-            display:inline-block;
-            background:gold;
-            color:black;
-            padding:15px 25px;
-            text-decoration:none;
-            border-radius:8px;
-            font-weight:bold;
-            margin:10px;
-        }
+td{
+    border:1px solid #444;
+    padding:12px;
+    text-align:center;
+}
 
-        footer{
-            text-align:center;
-            color:#999;
-            padding:30px;
-        }
-    </style>
+input, select{
+    width:100%;
+    padding:10px;
+    font-size:16px;
+}
+
+.btn, button{
+    background:gold;
+    color:black;
+    padding:15px 25px;
+    border:none;
+    border-radius:8px;
+    font-weight:bold;
+    cursor:pointer;
+    margin-top:10px;
+}
+
+footer{
+    text-align:center;
+    color:#999;
+    padding:30px;
+}
+
+</style>
 
 </head>
 
+
 <body>
 
+
 <header>
-    <h1>KANTOR CENTRUM</h1>
-    <p>Ponad 70 walut • Kraków ul. Zwierzyniecka 14</p>
+
+<h1>KANTOR CENTRUM</h1>
+
+<p>
+Ponad 70 walut • Kraków ul. Zwierzyniecka 14
+</p>
+
 </header>
+
 
 <div class="container">
 
+
 <h2>Aktualne kursy</h2>
+
 
 <table>
 
@@ -100,59 +115,102 @@
 <th>Sprzedaż</th>
 </tr>
 
+
 <tbody id="ratesTable">
+
 </tbody>
+
 
 </table>
 
-<br><br>
+
+<br>
+
 
 <h2>Rezerwacja waluty</h2>
 
-<form>
 
 <form onsubmit="sendWhatsApp(); return false;">
 
-<label>Numer telefonu:</label><br>
+
+<label>
+Numer telefonu:
+</label>
+
+<br>
+
 <input id="phone" type="tel" placeholder="np. 600 000 000" required>
 
+
 <br><br>
 
-<label>Rodzaj transakcji:</label><br>
+
+<label>
+Rodzaj transakcji:
+</label>
+
+<br>
+
 <select id="type">
+
 <option>Kupuję walutę</option>
+
 <option>Sprzedaję walutę</option>
+
 </select>
 
+
 <br><br>
 
-<label>Waluta:</label><br>
+
+<label>
+Waluta:
+</label>
+
+<br>
+
 <select id="currency">
 
-</select>
 
+</select>
 <br><br>
 
-<label>Kwota:</label><br>
+
+<label>
+Kwota:
+</label>
+
+<br>
+
 <input id="amount" type="number" placeholder="np. 1000" required>
 
+
 <br><br>
-    
+
+
 <button type="button" onclick="calculate()">
-    sprawdź wartość
+Sprawdź wartość
 </button>
-    <p id="result"></p>
+
+
+<p id="result"></p>
+
+
 <p>
 ⏰ Rezerwacja kursu ważna do godziny od złożenia rezerwacji.
 </p>
 
+
 <button class="btn" type="submit">
-Wyślij rezerwacje WhatsApp</button>
-    
+📲 Wyślij rezerwację WhatsApp
+</button>
+
+
 </form>
 
 
 </div>
+
 
 <footer>
 
@@ -160,138 +218,163 @@ Wyślij rezerwacje WhatsApp</button>
 
 </footer>
 
-    <script>
-function sendWhatsApp(){
-
-function sendWhatsApp(){
-
-let phone = document.getElementById("phone").value;
-let type = document.getElementById("type").value;
-let currency = document.getElementById("currency").value;
-let amount = Number(document.getElementById("amount").value);
-
-let selected = currencies.find(item => item.code === currency);
-
-let rate = (type === "Kupuję walutę") ? selected.sell : selected.buy;
-
-let total = (amount * rate).toFixed(2);
-
-let message =
-Dzień dobry!
-
-Chcę zarezerwować walutę.
-
-Transakcja: ${type}
-Waluta: ${currency}
-Kwota: ${amount} ${currency}
-Kurs: ${rate}
-Wartość: ${total} PLN
-
-Telefon: ${phone}
-
-Rezerwacja ważna do godziny 17:00.;
-
-window.open(
-"https://wa.me/48793171110?text=" + encodeURIComponent(message),
-"_blank"
-);
-
-}
-
-    <script>
 
 
-
-function calculate(){
-
-let type = document.getElementById("type").value;
-let currency = document.getElementById("currency").value;
-let amount = Number(document.getElementById("amount").value);
-
-let rate;
-
-if(type=="Kupuję walutę"){
-    rate = rates[currency].sell;
-}
-else{
-    rate = rates[currency].buy;
-}
-
-let result = amount * rate;
-
-document.getElementById("result").innerHTML =
-"Kurs: " + rate.toFixed(2) + 
-"<br>Wartość: " + result.toFixed(2) + " PLN";
-
-}
-
-</script>
+<script src="kursy.js"></script>
 
 
-    <script src="kursy.js"></script>
+<script>
 
-    <script>
+
+// lista walut w rezerwacji
 
 let currencySelect = document.getElementById("currency");
+
 
 currencies.forEach(function(currency){
 
 let option = document.createElement("option");
 
 option.value = currency.code;
+
 option.textContent = currency.code;
 
 currencySelect.appendChild(option);
 
 });
 
-</script>
-    <script>
 
-        function calculate(){
+
+// kalkulator
+
+
+function calculate(){
+
 
 let type = document.getElementById("type").value;
+
 let currency = document.getElementById("currency").value;
+
 let amount = Number(document.getElementById("amount").value);
 
+
+
 let selected = currencies.find(function(item){
-    return item.code === currency;
+
+return item.code === currency;
+
 });
+
+
 
 let rate;
 
+
+
 if(type=="Kupuję walutę"){
-    rate = selected.sell;
+
+rate = selected.sell;
+
 }
+
 else{
-    rate = selected.buy;
+
+rate = selected.buy;
+
 }
+
+
 
 let result = amount * rate;
 
+
+
 document.getElementById("result").innerHTML =
+
 "Kurs: " + rate.toFixed(3) +
+
 "<br>Wartość: " + result.toFixed(2) + " PLN";
+
 
 }
 
-let table = document.getElementById("ratesTable");
 
-currencies.forEach(function(currency){
 
-let row = `
-<tr>
-<td>${currency.code}</td>
-<td>${currency.buy}</td>
-<td>${currency.sell}</td>
-</tr>`
-;
+</script>
+<script>
 
-table.innerHTML += row;
+
+function sendWhatsApp(){
+
+
+let phone = document.getElementById("phone").value;
+
+let type = document.getElementById("type").value;
+
+let currency = document.getElementById("currency").value;
+
+let amount = Number(document.getElementById("amount").value);
+
+
+
+let selected = currencies.find(function(item){
+
+return item.code === currency;
 
 });
 
+
+
+let rate = (type=="Kupuję walutę") ? selected.sell : selected.buy;
+
+
+let total = (amount * rate).toFixed(2);
+
+
+
+let message = 
+
+Dzień dobry!
+
+Chcę zarezerwować walutę.
+
+
+Transakcja: ${type}
+
+Waluta: ${currency}
+
+Kwota: ${amount} ${currency}
+
+Kurs: ${rate}
+
+Wartość: ${total} PLN
+
+
+Telefon: ${phone}
+
+
+Rezerwacja ważna do godziny 17:00.
+
+;
+
+
+
+window.open(
+
+"https://wa.me/48793171110?text=" + encodeURIComponent(message),
+
+"_blank"
+
+);
+
+
+
+}
+
+
 </script>
-    
+
+
 </body>
+
 </html>
