@@ -192,24 +192,6 @@ window.open(
 
     <script>
 
-const rates = {
-    EUR: {
-        buy: 4.24,
-        sell: 4.28
-    },
-    USD: {
-        buy: 3.63,
-        sell: 3.68
-    },
-    GBP: {
-        buy: 4.92,
-        sell: 4.99
-    },
-    CHF: {
-        buy: 4.50,
-        sell: 4.57
-    }
-};
 
 
 function calculate(){
@@ -241,6 +223,33 @@ document.getElementById("result").innerHTML =
     <script src="kursy.js"></script>
 
     <script>
+
+        function calculate(){
+
+let type = document.getElementById("type").value;
+let currency = document.getElementById("currency").value;
+let amount = Number(document.getElementById("amount").value);
+
+let selected = currencies.find(function(item){
+    return item.code === currency;
+});
+
+let rate;
+
+if(type=="Kupuję walutę"){
+    rate = selected.sell;
+}
+else{
+    rate = selected.buy;
+}
+
+let result = amount * rate;
+
+document.getElementById("result").innerHTML =
+"Kurs: " + rate.toFixed(3) +
+"<br>Wartość: " + result.toFixed(2) + " PLN";
+
+}
 
 let table = document.getElementById("ratesTable");
 
