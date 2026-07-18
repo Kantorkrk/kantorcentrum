@@ -100,26 +100,50 @@
 <th>Sprzedaż</th>
 </tr>
 
-<tr><td>EUR</td><td>4.24</td><td>4.28</td></tr>
-<tr><td>USD</td><td>3.63</td><td>3.68</td></tr>
-<tr><td>GBP</td><td>4.92</td><td>4.99</td></tr>
-<tr><td>CHF</td><td>4.50</td><td>4.57</td></tr>
+<tr><td>EUR</td><td>4.26</td><td>4.355</td></tr>
+<tr><td>USD</td><td>3.71</td><td>3.805</td></tr>
+<tr><td>GBP</td><td>4.97</td><td>5.11</td></tr>
+<tr><td>CHF</td><td>4.62</td><td>4.70</td></tr>
+<tr><td>AUD</td><td>2.57</td><td>2.65</td></tr>
+<tr><td>CAD</td><td>2.65</td><td>2.70</td></tr>
 
 </table>
 
 <br><br>
 
-<center>
+<h2>Rezerwacja waluty</h2>
 
-<a class="btn" href="tel:+48123456789">
-📞 Zadzwoń
-</a>
+<form>
 
-<a class="btn" href="#">
-📝 Rezerwacja waluty
-</a>
+<label>Numer telefonu:</label><br>
+<input type="tel" placeholder="np. 600 000 000" required>
+<br><br>
 
-</center>
+<label>Waluta:</label><br>
+<select>
+<option>EUR</option>
+<option>USD</option>
+<option>GBP</option>
+<option>CHF</option>
+<option>Inna</option>
+</select>
+
+<br><br>
+
+<label>Kwota:</label><br>
+<input type="number" placeholder="np. 1000">
+<br><br>
+
+<label>Godzina odbioru:</label><br>
+<input type="time">
+
+<br><br>
+
+<button class="btn" type="submit">
+Zarezerwuj
+</button>
+
+</form>
 
 </div>
 
