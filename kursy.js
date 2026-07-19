@@ -191,4 +191,82 @@ const currencies = [
     buy: 0.71,
     sell: 0.93
 },
+    {
+    code: "ETB",
+    flag: "🇪🇹",
+    buy: 0.015,
+    sell: 0.03
+},
+{
+    code: "FJD",
+    flag: "🇫🇯",
+    buy: 1.52,
+    sell: 1.815
+},
+{
+    code: "GEL",
+    flag: "🇬🇪",
+    buy: 1.43,
+    sell: 1.51
+},
+{
+    code: "GTQ",
+    flag: "🇬🇹",
+    buy: 0.35,
+    sell: 0.598
+},
+{
+    code: "HKD",
+    flag: "🇭🇰",
+    buy: 0.452,
+    sell: 0.505
+},
+{
+    code: "IDR",
+    flag: "🇮🇩",
+    buy: 0.000212,
+    sell: 0.000258
+},
+{
+    code: "ILS",
+    flag: "🇮🇱",
+    buy: 1.12,
+    sell: 1.25
+},
+{
+    code: "INR",
+    flag: "🇮🇳",
+    buy: 0.0375,
+    sell: 0.0445
+},
+{
+    code: "ISK",
+    flag: "🇮🇸",
+    buy: 0.027,
+    sell: 0.0293
+},
+{
+    code: "IQD",
+    flag: "🇮🇶",
+    buy: 0.00232,
+    sell: 0.00324
+},
+{
+    code: "JOD",
+    flag: "🇯🇴",
+    buy: 4.65,
+    sell: 5.45
+},
+{
+    code: "JMD",
+    flag: "🇯🇲",
+    buy: 0.0155,
+    sell: 0.0296
+},
+{
+    code: "KES",
+    flag: "🇰🇪",
+    buy: 0.026,
+    sell: 0.0358
+},
 ];
