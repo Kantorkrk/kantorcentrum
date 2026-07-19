@@ -38,7 +38,7 @@ const currencies = [
     {
         code: "CZK",
         flag: "🇨🇿",
-        buy: 0.16,
+        buy: 0.174,
         sell: 0.18
     },
     {
@@ -62,8 +62,8 @@ const currencies = [
     {
         code: "HUF",
         flag: "🇭🇺",
-        buy: 0.010,
-        sell: 0.012
+        buy: 0.01182,
+        sell: 0.01236
     },
     {
         code: "JPY",
