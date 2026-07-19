@@ -50,14 +50,14 @@ const currencies = [
     {
         code: "NOK",
         flag: "🇳🇴",
-        buy: 0.36,
-        sell: 0.39
+        buy: 0.31,
+        sell: 0.353
     },
     {
         code: "SEK",
         flag: "🇸🇪",
-        buy: 0.37,
-        sell: 0.40
+        buy: 0.32,
+        sell: 0.365
     },
     {
         code: "HUF",
