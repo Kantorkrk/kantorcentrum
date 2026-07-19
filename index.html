@@ -245,7 +245,8 @@ currencies.forEach(function(currency){
 
 let row = `
 <tr>
-<td>${currency.code}</td>
+<td>${currency.flag} $
+    {currency.code}</td>
 <td>${currency.buy}</td>
 <td>${currency.sell}</td>
 </tr>`
