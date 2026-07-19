@@ -437,4 +437,88 @@ const currencies = [
     buy: 0.87,
     sell: 1.0
 },
+    {
+    code: "SCR",
+    flag: "🇸🇨",
+    buy: 0.25,
+    sell: 0.366
+},
+    {
+    code: "SGD",
+    flag: "🇸🇬",
+    buy: 2.73,
+    sell: 2.98
+},
+{
+    code: "THB",
+    flag: "🇹🇭",
+    buy: 0.1133,
+    sell: 0.121
+},
+{
+    code: "TJS",
+    flag: "🇹🇯",
+    buy: 0.27,
+    sell: 0.46
+},
+{
+    code: "TND",
+    flag: "🇹🇳",
+    buy: 1.185,
+    sell: 1.445
+},
+{
+    code: "TRY",
+    flag: "🇹🇷",
+    buy: 0.0826,
+    sell: 0.0898
+},
+{
+    code: "TTD",
+    flag: "🇹🇹",
+    buy: 0.17,
+    sell: 0.377
+},
+{
+    code: "TWD",
+    flag: "🇹🇼",
+    buy: 0.10,
+    sell: 0.151
+},
+{
+    code: "TZS",
+    flag: "🇹🇿",
+    buy: 0.00138,
+    sell: 0.00199
+},
+{
+    code: "VND",
+    flag: "🇻🇳",
+    buy: 0.000143,
+    sell: 0.000167
+},
+{
+    code: "UAH",
+    flag: "🇺🇦",
+    buy: 0.0812,
+    sell: 0.0853
+},
+{
+    code: "UYU",
+    flag: "🇺🇾",
+    buy: 0.0828,
+    sell: 0.0109
+},
+{
+    code: "UZS",
+    flag: "🇺🇿",
+    buy: 0.000261,
+    sell: 0.000498
+},
+{
+    code: "ZAR",
+    flag: "🇿🇦",
+    buy: 0.233,
+    sell: 0.265
+},
 ];
