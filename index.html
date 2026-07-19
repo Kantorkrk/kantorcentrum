@@ -109,7 +109,7 @@
 
 <h2>Rezerwacja waluty</h2>
 
-<form>
+
 
 <form onsubmit="sendWhatsApp(); return false;">
 
@@ -161,22 +161,22 @@ Wyślij rezerwacje WhatsApp</button>
 </footer>
 
     <script>
-function sendWhatsApp(){
-
-function sendWhatsApp(){
+function sendWhatsApp() {
 
 let phone = document.getElementById("phone").value;
 let type = document.getElementById("type").value;
 let currency = document.getElementById("currency").value;
 let amount = Number(document.getElementById("amount").value);
 
-let selected = currencies.find(item => item.code === currency);
+let selected = currencies.find(function(item){
+    return item.code === currency;
+});
 
 let rate = (type === "Kupuję walutę") ? selected.sell : selected.buy;
 
 let total = (amount * rate).toFixed(2);
 
-let message =
+let message = 
 Dzień dobry!
 
 Chcę zarezerwować walutę.
@@ -189,11 +189,12 @@ Wartość: ${total} PLN
 
 Telefon: ${phone}
 
-Rezerwacja ważna do godziny 17:00.;
+Rezerwacja ważna do godziny 17:00.
+;
 
 window.open(
-"https://wa.me/48793171110?text=" + encodeURIComponent(message),
-"_blank"
+    "https://wa.me/48793171110?text=" + encodeURIComponent(message),
+    "_blank"
 );
 
 }
