@@ -26,14 +26,14 @@ const currencies = [
     {
         code: "AUD",
         flag: "🇦🇺",
-        buy: 2.57,
-        sell: 2.65
+        buy: 2.56,
+        sell: 2.656
     },
     {
         code: "CAD",
         flag: "🇨🇦",
-        buy: 2.65,
-        sell: 2.72
+        buy: 2.645,
+        sell: 2.718
     },
     {
         code: "CZK",
