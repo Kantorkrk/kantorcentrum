@@ -1,6 +1,6 @@
 const currencies = [
     {
-        code: "EUR",
+        code: "EU",
         flag: "🇪🇺",
         buy: 4.26,
         sell: 4.35
