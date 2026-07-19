@@ -162,40 +162,24 @@
 </footer>
 
     <script>
-function sendWhatsApp() {
-alert("wchodzi");
+function sendWhatsApp(){
+
 let phone = document.getElementById("phone").value;
 let type = document.getElementById("type").value;
 let currency = document.getElementById("currency").value;
-let amount = Number(document.getElementById("amount").value);
+let amount = document.getElementById("amount").value;
 
-let selected = currencies.find(function(item){
-    return item.code === currency;
-});
-
-let rate = (type === "Kupuję walutę") ? selected.sell : selected.buy;
-
-let total = (amount * rate).toFixed(2);
-
-let message = 
-Dzień dobry
-
-Chcę zarezerwować walutę.
-
-Transakcja: ${type}
-Waluta: ${currency}
-Kwota: ${amount} ${currency}
-Kurs: ${rate}
-Wartość: ${total} PLN
-
-Telefon: ${phone}
-
-Rezerwacja ważna do godziny 17:00.
-;
+let message =
+"Dzień dobry,\n\n" +
+"Chcę zarezerwować walutę.\n\n" +
+"Transakcja: " + type + "\n" +
+"Waluta: " + currency + "\n" +
+"Kwota: " + amount + "\n" +
+"Telefon: " + phone;
 
 window.open(
-    "https://wa.me/48793171110?text=" + encodeURIComponent(message),
-    "_blank"
+"https://wa.me/48793171110?text=" + encodeURIComponent(message),
+"_blank"
 );
 
 }
