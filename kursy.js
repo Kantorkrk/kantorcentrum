@@ -110,25 +110,85 @@ const currencies = [
 {
     code: "BDT",
     flag: "🇧🇩",
-    buy: 0,
-    sell: 0
+    buy: 0.017,
+    sell: 0.033
 },
 {
     code: "BHD",
     flag: "🇧🇭",
-    buy: 0,
-    sell: 0
+    buy: 9.1,
+    sell: 10.2
 },
 {
     code: "BOB",
     flag: "🇧🇴",
-    buy: 0,
-    sell: 0
+    buy: 0.34,
+    sell: 0.66
 },
 {
     code: "BYN",
     flag: "🇧🇾",
-    buy: 0,
-    sell: 0
+    buy: 1.05,
+    sell: 1.445
+},
+    {
+    code: "BRL",
+    flag: "🇧🇷",
+    buy: 0.74,
+    sell: 0.83
+},
+{
+    code: "BBD",
+    flag: "🇧🇧",
+    buy: 1.62,
+    sell: 2.35
+},
+{
+    code: "BND",
+    flag: "🇧🇳",
+    buy: 2.51,
+    sell: 3.27
+},
+{
+    code: "BWP",
+    flag: "🇧🇼",
+    buy: 0.21,
+    sell: 0.377
+},
+{
+    code: "CNY",
+    flag: "🇨🇳",
+    buy: 0.53,
+    sell: 0.575
+},
+{
+    code: "CLP",
+    flag: "🇨🇱",
+    buy: 0.00381,
+    sell: 0.00452
+},
+{
+    code: "COP",
+    flag: "🇨🇴",
+    buy: 0.0085,
+    sell: 0.0122
+},
+{
+    code: "CRC",
+    flag: "🇨🇷",
+    buy: 0.00683,
+    sell: 0.0107
+},
+{
+    code: "DOP",
+    flag: "🇩🇴",
+    buy: 0.0575,
+    sell: 0.075
+},
+{
+    code: "EGP",
+    flag: "🇪🇬",
+    buy: 0.71,
+    sell: 0.93
 },
 ];
