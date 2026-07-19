@@ -164,6 +164,13 @@
     <script>
 function sendWhatsApp(){
 
+ let selected = currencies.find(function(item){
+    return item.code === currency;
+});
+
+let rate = (type === "Kupuję walutę") ? selected.sell : selected.buy;
+
+let total = (amount * rate).toFixed(2);
 let phone = document.getElementById("phone").value;
 let type = document.getElementById("type").value;
 let currency = document.getElementById("currency").value;
@@ -174,7 +181,9 @@ let message =
 "Chcę zarezerwować walutę.\n\n" +
 "Transakcja: " + type + "\n" +
 "Waluta: " + currency + "\n" +
-"Kwota: " + amount + "\n" +
+"Kwota: " + amount + " " + currency + "\n" +
+"Kurs: " + rate + "\n" +
+"Wartość: " + total + " PLN\n" +
 "Telefon: " + phone;
 
 window.open(
