@@ -203,30 +203,7 @@ window.open(
 
 
 
-function calculate(){
 
-let type = document.getElementById("type").value;
-let currency = document.getElementById("currency").value;
-let amount = Number(document.getElementById("amount").value);
-
-let rate;
-
-if(type=="Kupuję walutę"){
-    rate = rates[currency].sell;
-}
-else{
-    rate = rates[currency].buy;
-}
-
-let result = amount * rate;
-
-document.getElementById("result").innerHTML =
-"Kurs: " + rate.toFixed(2) + 
-"<br>Wartość: " + result.toFixed(2) + " PLN";
-
-}
-
-</script>
 
 
     <script src="kursy.js"></script>
