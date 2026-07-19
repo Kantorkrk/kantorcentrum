@@ -80,8 +80,8 @@ const currencies = [
 {
     code: "ALL",
     flag: "🇦🇱",
-    buy: 0.46,
-    sell: 0.489
+    buy: 0.046,
+    sell: 0.0489
 },
 {
     code: "AMD",
