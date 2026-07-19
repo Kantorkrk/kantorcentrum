@@ -70,7 +70,7 @@ const currencies = [
         flag: "🇯🇵",
         buy: 0.023,
         sell: 0.026
-    }
+    },
     {
     code: "AED",
     flag: "🇦🇪",
