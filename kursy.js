@@ -14,14 +14,14 @@ const currencies = [
     {
         code: "GBP",
         flag: "🇬🇧",
-        buy: 4.94,
-        sell: 5.10
+        buy: 4.97,
+        sell: 5.11
     },
     {
         code: "CHF",
         flag: "🇨🇭",
-        buy: 4.50,
-        sell: 4.57
+        buy: 4.57,
+        sell: 4.71
     },
     {
         code: "AUD",
@@ -268,5 +268,101 @@ const currencies = [
     flag: "🇰🇪",
     buy: 0.026,
     sell: 0.0358
+},
+    {
+    code: "KGS",
+    flag: "🇰🇬",
+    buy: 0.038,
+    sell: 0.0544
+},
+{
+    code: "KRW",
+    flag: "🇰🇷",
+    buy: 0.00251,
+    sell: 0.0027
+},
+{
+    code: "KZT",
+    flag: "🇰🇿",
+    buy: 0.0075,
+    sell: 0.0106
+},
+{
+    code: "KWD",
+    flag: "🇰🇼",
+    buy: 10.60,
+    sell: 12.25
+},
+{
+    code: "LAK",
+    flag: "🇱🇦",
+    buy: 0.00012,
+    sell: 0.00026
+},
+{
+    code: "LKR",
+    flag: "🇱🇰",
+    buy: 0.0101,
+    sell: 0.0158
+},
+{
+    code: "MAD",
+    flag: "🇲🇦",
+    buy: 0.419,
+    sell: 0.458
+},
+{
+    code: "MDL",
+    flag: "🇲🇩",
+    buy: 0.221,
+    sell: 0.268
+},
+{
+    code: "MKD",
+    flag: "🇲🇰",
+    buy: 0.0715,
+    sell: 0.0789
+},
+{
+    code: "MMK",
+    flag: "🇲🇲",
+    buy: 0.0011,
+    sell: 0.0028
+},
+{
+    code: "MNT",
+    flag: "🇲🇳",
+    buy: 0.00082,
+    sell: 0.00118
+},
+{
+    code: "MOP",
+    flag: "🇲🇴",
+    buy: 0.355,
+    sell: 0.521
+},
+{
+    code: "MUR",
+    flag: "🇲🇺",
+    buy: 0.071,
+    sell: 0.114
+},
+{
+    code: "MVR",
+    flag: "🇲🇻",
+    buy: 0.191,
+    sell: 0.347
+},
+{
+    code: "MXN",
+    flag: "🇲🇽",
+    buy: 0.207,
+    sell: 0.237
+},
+{
+    code: "MYR",
+    flag: "🇲🇾",
+    buy: 0.895,
+    sell: 0.995
 },
 ];
