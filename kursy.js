@@ -365,4 +365,76 @@ const currencies = [
     buy: 0.895,
     sell: 0.995
 },
+    {
+    code: "NAD",
+    flag: "🇳🇦",
+    buy: 0.171,
+    sell: 0.277
+},
+{
+    code: "NPR",
+    flag: "🇳🇵",
+    buy: 0.02,
+    sell: 0.0365
+},
+{
+    code: "NZD",
+    flag: "🇳🇿",
+    buy: 2.14,
+    sell: 2.325
+},
+{
+    code: "OMR",
+    flag: "🇴🇲",
+    buy: 8.62,
+    sell: 10.1
+},
+{
+    code: "PEN",
+    flag: "🇵🇪",
+    buy: 1.044,
+    sell: 1.279
+},
+{
+    code: "PHP",
+    flag: "🇵🇭",
+    buy: 0.0575,
+    sell: 0.0744
+},
+{
+    code: "PYG",
+    flag: "🇵🇾",
+    buy: 0.00036,
+    sell: 0.00068
+},
+{
+    code: "RON",
+    flag: "🇷🇴",
+    buy: 0.832,
+    sell: 0.885
+},
+{
+    code: "RUB",
+    flag: "🇷🇺",
+    buy: 0.0433,
+    sell: 0.0505
+},
+{
+    code: "RSD",
+    flag: "🇷🇸",
+    buy: 0.0371,
+    sell: 0.0408
+},
+{
+    code: "QAR",
+    flag: "🇶🇦",
+    buy: 0.91,
+    sell: 1.065
+},
+{
+    code: "SAR",
+    flag: "🇸🇦",
+    buy: 0.87,
+    sell: 1.0
+},
 ];
