@@ -71,4 +71,64 @@ const currencies = [
         buy: 0.023,
         sell: 0.026
     }
+    {
+    code: "AED",
+    flag: "🇦🇪",
+    buy: 0.97,
+    sell: 1.02
+},
+{
+    code: "ALL",
+    flag: "🇦🇱",
+    buy: 0.46,
+    sell: 0.489
+},
+{
+    code: "AMD",
+    flag: "🇦🇲",
+    buy: 0.0082,
+    sell: 0.01206
+},
+{
+    code: "ARS",
+    flag: "🇦🇷",
+    buy: 0.0021,
+    sell: 0.0052
+},
+{
+    code: "AZN",
+    flag: "🇦🇿",
+    buy: 2.11,
+    sell: 2.425
+},
+{
+    code: "BAM",
+    flag: "🇧🇦",
+    buy: 2.24,
+    sell: 2.41
+},
+{
+    code: "BDT",
+    flag: "🇧🇩",
+    buy: 0,
+    sell: 0
+},
+{
+    code: "BHD",
+    flag: "🇧🇭",
+    buy: 0,
+    sell: 0
+},
+{
+    code: "BOB",
+    flag: "🇧🇴",
+    buy: 0,
+    sell: 0
+},
+{
+    code: "BYN",
+    flag: "🇧🇾",
+    buy: 0,
+    sell: 0
+},
 ];
