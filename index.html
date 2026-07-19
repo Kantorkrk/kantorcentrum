@@ -146,9 +146,8 @@
 ⏰ Rezerwacja kursu ważna do godziny od złożenia rezerwacji.
 </p>
 
-<button class="btn" type="button">
-onclick="sendWhatsapp()">
-    Wyślij rezerwacje WhatsApp
+<button class="btn" type="submit">
+ Wyślij rezerwacje WhatsApp
 </button>
     
 </form>
@@ -179,7 +178,7 @@ let rate = (type === "Kupuję walutę") ? selected.sell : selected.buy;
 let total = (amount * rate).toFixed(2);
 
 let message = 
-Dzień dobry!
+Dzień dobry
 
 Chcę zarezerwować walutę.
 
@@ -273,10 +272,6 @@ table.innerHTML += row;
 
 </script>
 
-    <script>
-    function sendWhatsApp(){
-        alert("działa");
-    }
-    </script>
+    
 </body>
 </html>
