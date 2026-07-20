@@ -50,8 +50,8 @@ const currencies = [
     {
         code: "DKK",
         flag: "🇩🇰",
-        buy: 0.56,
-        sell: 0.59
+        buy: 0.538,
+        sell: 0.583
     },
     {
         code: "NOK",
@@ -213,7 +213,7 @@ const currencies = [
     code: "GEL",
     flag: "🇬🇪",
     buy: 1.43,
-    sell: 1.51
+    sell: 1.515
 },
 {
     code: "GTQ",
@@ -417,7 +417,7 @@ const currencies = [
     code: "RON",
     flag: "🇷🇴",
     buy: 0.832,
-    sell: 0.885
+    sell: 0.888
 },
 {
     code: "RUB",
@@ -506,7 +506,7 @@ const currencies = [
 {
     code: "UAH",
     flag: "🇺🇦",
-    buy: 0.0812,
+    buy: 0.0811,
     sell: 0.0853
 },
 {
