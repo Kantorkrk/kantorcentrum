@@ -11,6 +11,12 @@ const currencies = [
         buy: 3.73,
         sell: 3.807
     },
+     {
+        code: "USDold",
+        flag: "🇺🇸",
+        buy: 3.71,
+        sell: 3.798
+    },
     {
         code: "GBP",
         flag: "🇬🇧",
