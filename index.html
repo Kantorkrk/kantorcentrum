@@ -294,7 +294,7 @@ let rows = document.querySelectorAll("table tbody tr");
 
 rows.forEach(function(row){
 
-let text = row.innerText.toUpperCase();
+let text = row.textContent.toUpperCase();
 
 if(text.indexOf(input) > -1){
 row.style.display = "";
