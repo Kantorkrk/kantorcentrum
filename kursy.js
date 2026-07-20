@@ -164,7 +164,7 @@ const currencies = [
 {
     code: "CNY",
     flag: "🇨🇳",
-    buy: 0.53,
+    buy: 0.522,
     sell: 0.575
 },
 {
@@ -428,13 +428,13 @@ const currencies = [
 {
     code: "RSD",
     flag: "🇷🇸",
-    buy: 0.0371,
+    buy: 0.0366,
     sell: 0.0408
 },
 {
     code: "QAR",
     flag: "🇶🇦",
-    buy: 0.91,
+    buy: 0.906,
     sell: 1.065
 },
 {
@@ -524,7 +524,7 @@ const currencies = [
 {
     code: "ZAR",
     flag: "🇿🇦",
-    buy: 0.233,
-    sell: 0.265
+    buy: 0.224,
+    sell: 0.264
 },
 ];
