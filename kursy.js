@@ -8,13 +8,13 @@ const currencies = [
     {
         code: "USD",
         flag: "🇺🇸",
-        buy: 3.73,
-        sell: 3.807
+        buy: 3.725,
+        sell: 3.806
     },
      {
         code: "USDold",
         flag: "🇺🇸",
-        buy: 3.71,
+        buy: 3.695,
         sell: 3.798
     },
     {
