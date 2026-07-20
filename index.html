@@ -160,6 +160,13 @@ Zapytanie o kurs nie jest równoznaczne z rezerwacją ani potwierdzeniem transak
 <p style="color:#777;font-size:14px;">
 🕒 Ostatnia aktualizacja kursów: 20.07.2026, godz. 10:05
 </p>
+
+<input
+id="search"
+type="text"
+placeholder="🔍 Wyszukaj walutę (np. EUR, USD...)"
+onkeyup="searchCurrency()"
+style="width:100%;padding:10px;font-size:16px;margin-bottom:15px;">
     
     <table>
         <tr>
@@ -279,6 +286,26 @@ table.innerHTML += row;
 
 });
 
+function searchCurrency() {
+
+let input = document.getElementById("search").value.toUpperCase();
+
+let rows = document.querySelectorAll("table tbody tr");
+
+rows.forEach(function(row){
+
+let text = row.innerText.toUpperCase();
+
+if(text.indexOf(input) > -1){
+row.style.display = "";
+}else{
+row.style.display = "none";
+}
+
+});
+
+}
+        
 </script>
 
     
