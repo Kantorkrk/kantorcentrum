@@ -8,37 +8,37 @@ const currencies = [
     {
         code: "USD",
         flag: "🇺🇸",
-        buy: 3.71,
+        buy: 3.73,
         sell: 3.807
     },
     {
         code: "GBP",
         flag: "🇬🇧",
-        buy: 4.97,
+        buy: 5.01,
         sell: 5.11
     },
     {
         code: "CHF",
         flag: "🇨🇭",
-        buy: 4.57,
+        buy: 4.60,
         sell: 4.71
     },
     {
         code: "AUD",
         flag: "🇦🇺",
         buy: 2.56,
-        sell: 2.656
+        sell: 2.658
     },
     {
         code: "CAD",
         flag: "🇨🇦",
         buy: 2.645,
-        sell: 2.718
+        sell: 2.716
     },
     {
         code: "CZK",
         flag: "🇨🇿",
-        buy: 0.174,
+        buy: 0.175,
         sell: 0.18
     },
     {
@@ -50,26 +50,26 @@ const currencies = [
     {
         code: "NOK",
         flag: "🇳🇴",
-        buy: 0.31,
+        buy: 0.312,
         sell: 0.353
     },
     {
         code: "SEK",
         flag: "🇸🇪",
         buy: 0.32,
-        sell: 0.365
+        sell: 0.364
     },
     {
         code: "HUF",
         flag: "🇭🇺",
         buy: 0.01182,
-        sell: 0.01236
+        sell: 0.01238
     },
     {
         code: "JPY",
         flag: "🇯🇵",
-        buy: 0.023,
-        sell: 0.026
+        buy: 0.0231,
+        sell: 0.0259
     },
     {
     code: "AED",
@@ -80,7 +80,7 @@ const currencies = [
 {
     code: "ALL",
     flag: "🇦🇱",
-    buy: 0.046,
+    buy: 0.0456,
     sell: 0.0489
 },
 {
@@ -218,7 +218,7 @@ const currencies = [
 {
     code: "HKD",
     flag: "🇭🇰",
-    buy: 0.452,
+    buy: 0.442,
     sell: 0.505
 },
 {
