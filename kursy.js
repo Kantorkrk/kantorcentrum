@@ -327,7 +327,7 @@ const currencies = [
     code: "MDL",
     flag: "🇲🇩",
     buy: 0.221,
-    sell: 0.268
+    sell: 0.267
 },
 {
     code: "MKD",
@@ -452,7 +452,7 @@ const currencies = [
     {
     code: "SCR",
     flag: "🇸🇨",
-    buy: 0.25,
+    buy: 0.252,
     sell: 0.366
 },
     {
