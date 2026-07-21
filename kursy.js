@@ -31,6 +31,7 @@ const currencies = [
     },
     {
         code: "AUD",
+        name: " Australia",
         flag: "🇦🇺",
         buy: 2.566,
         sell: 2.67
