@@ -476,8 +476,8 @@ const currencies = [
 {
     code: "TRY",
     flag: "🇹🇷",
-    buy: 0.0826,
-    sell: 0.0898
+    buy: 0.0823,
+    sell: 0.0897
 },
 {
     code: "TTD",
@@ -506,8 +506,8 @@ const currencies = [
 {
     code: "UAH",
     flag: "🇺🇦",
-    buy: 0.0801,
-    sell: 0.0849
+    buy: 0.0794,
+    sell: 0.0846
 },
 {
     code: "UYU",
