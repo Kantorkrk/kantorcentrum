@@ -26,20 +26,20 @@ const currencies = [
     {
         code: "CHF",
         flag: "🇨🇭",
-        buy: 4.62,
+        buy: 4.622,
         sell: 4.706
     },
     {
         code: "AUD",
         flag: "🇦🇺",
         buy: 2.566,
-        sell: 2.665
+        sell: 2.67
     },
     {
         code: "CAD",
         flag: "🇨🇦",
-        buy: 2.645,
-        sell: 2.715
+        buy: 2.646,
+        sell: 2.709
     },
     {
         code: "CZK",
@@ -284,8 +284,8 @@ const currencies = [
 {
     code: "KRW",
     flag: "🇰🇷",
-    buy: 0.00251,
-    sell: 0.0027
+    buy: 0.00252,
+    sell: 0.00268
 },
 {
     code: "KZT",
@@ -363,7 +363,7 @@ const currencies = [
     code: "MXN",
     flag: "🇲🇽",
     buy: 0.207,
-    sell: 0.237
+    sell: 0.236
 },
 {
     code: "MYR",
