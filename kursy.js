@@ -18,7 +18,7 @@ const currencies = [
         sell: 3.797
     },
     {
-        code: "GBP Funt Brytysjki",
+        code: "GBP Funt Brytyjski",
         flag: "🇬🇧",
         buy: 5.005,
         sell: 5.097
@@ -36,7 +36,7 @@ const currencies = [
         sell: 2.67
     },
     {
-        code: "CAD Kanada",
+        code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.646,
         sell: 2.709
@@ -114,13 +114,13 @@ const currencies = [
     sell: 2.41
 },
 {
-    code: "BDT",
+    code: "BDT Taka Bangladesz ",
     flag: "🇧🇩",
     buy: 0.017,
     sell: 0.033
 },
 {
-    code: "BHD",
+    code: "BHD Dinar Bahrajn",
     flag: "🇧🇭",
     buy: 9.1,
     sell: 10.2
