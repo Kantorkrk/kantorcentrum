@@ -374,7 +374,7 @@ const currencies = [
 {
     code: "MYR",
     flag: "🇲🇾",
-    buy: 0.895,
+    buy: 0.891,
     sell: 0.995
 },
     {
