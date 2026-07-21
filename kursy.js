@@ -26,7 +26,7 @@ const currencies = [
     {
         code: "GBP Funt Brytyjski",
         flag: "🇬🇧",
-        buy: 5.006,
+        buy: 5.01,
         sell: 5.093
     },
     {
@@ -51,7 +51,7 @@ const currencies = [
         code: "CZK Korona Czeska ",
         flag: "🇨🇿",
         buy: 0.1754,
-        sell: 0.18
+        sell: 0.1799
     },
     {
         code: "DKK Korona duśnka",
