@@ -5,6 +5,12 @@ const currencies = [
         buy: 4.27,
         sell: 4.355
     },
+     {
+        code: "EUR >10k EURO",
+        flag: "🇪🇺",
+        buy: 4.305,
+        sell: 4.348
+    },
     {
         code: "USD Dolar od 2013",
         flag: "🇺🇸",
@@ -111,7 +117,7 @@ const currencies = [
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
     buy: 2.24,
-    sell: 2.41
+    sell: 2.416
 },
 {
     code: "BDT Taka Bangladesz ",
@@ -236,14 +242,14 @@ const currencies = [
 {
     code: "ILS",
     flag: "🇮🇱",
-    buy: 1.12,
-    sell: 1.25
+    buy: 1.105,
+    sell: 1.245
 },
 {
     code: "INR",
     flag: "🇮🇳",
-    buy: 0.0375,
-    sell: 0.0445
+    buy: 0.0385,
+    sell: 0.0442
 },
 {
     code: "ISK",
