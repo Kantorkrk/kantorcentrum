@@ -9,7 +9,7 @@ const currencies = [
         code: "EUR >10k EURO",
         flag: "🇪🇺",
         buy: 4.305,
-        sell: 4.348
+        sell: 4.347
     },
     {
         code: "USD Dolar od 2013",
@@ -50,7 +50,7 @@ const currencies = [
     {
         code: "CZK Korona Czeska ",
         flag: "🇨🇿",
-        buy: 0.175,
+        buy: 0.1754,
         sell: 0.18
     },
     {
@@ -68,8 +68,8 @@ const currencies = [
     {
         code: "SEK Korona szwedzka ",
         flag: "🇸🇪",
-        buy: 0.32,
-        sell: 0.364
+        buy: 0.323,
+        sell: 0.363
     },
     {
         code: "HUF Forint Węgry",
