@@ -30,7 +30,7 @@ const currencies = [
         sell: 4.706
     },
     {
-        code: "AUD Australia ",
+        code: "AUD Dolar australijski ",
         flag: "🇦🇺",
         buy: 2.566,
         sell: 2.67
@@ -42,7 +42,7 @@ const currencies = [
         sell: 2.709
     },
     {
-        code: "CZK Czechy ",
+        code: "CZK Korona Czeska ",
         flag: "🇨🇿",
         buy: 0.175,
         sell: 0.18
@@ -72,43 +72,43 @@ const currencies = [
         sell: 0.01239
     },
     {
-        code: "JPY Jen japośki",
+        code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0231,
         sell: 0.0258
     },
     {
-    code: "AED",
+    code: "AED Dirham  ",
     flag: "🇦🇪",
     buy: 0.966,
     sell: 1.026
 },
 {
-    code: "ALL",
+    code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0456,
     sell: 0.0489
 },
 {
-    code: "AMD",
+    code: "AMD Dram armeński",
     flag: "🇦🇲",
     buy: 0.0082,
     sell: 0.01206
 },
 {
-    code: "ARS",
+    code: "ARS Peso argentyńskie",
     flag: "🇦🇷",
     buy: 0.0021,
     sell: 0.0052
 },
 {
-    code: "AZN",
+    code: "AZN Manat azerski ",
     flag: "🇦🇿",
     buy: 2.11,
     sell: 2.425
 },
 {
-    code: "BAM",
+    code: "BAM Marka Bośnia",
     flag: "🇧🇦",
     buy: 2.24,
     sell: 2.41
