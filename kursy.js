@@ -291,7 +291,7 @@ const currencies = [
     code: "KRW",
     flag: "🇰🇷",
     buy: 0.00252,
-    sell: 0.00268
+    sell: 0.00269
 },
 {
     code: "KZT",
