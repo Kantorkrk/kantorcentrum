@@ -26,25 +26,25 @@ const currencies = [
     {
         code: "GBP Funt Brytyjski",
         flag: "🇬🇧",
-        buy: 5.01,
+        buy: 5.014,
         sell: 5.093
     },
     {
         code: "CHF Frank Szwajcarski",
         flag: "🇨🇭",
-        buy: 4.62,
+        buy: 4.63,
         sell: 4.705
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.581,
-        sell: 2.668
+        buy: 2.582,
+        sell: 2.669
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.642,
+        buy: 2.644,
         sell: 2.707
     },
     {
