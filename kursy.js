@@ -57,7 +57,7 @@ const currencies = [
         code: "DKK Korona duńska",
         flag: "🇩🇰",
         buy: 0.538,
-        sell: 0.583
+        sell: 0.582
     },
     {
         code: "NOK Korona norweska",
@@ -434,7 +434,7 @@ const currencies = [
 {
     code: "RSD",
     flag: "🇷🇸",
-    buy: 0.0366,
+    buy: 0.0365,
     sell: 0.0408
 },
 {
