@@ -24,13 +24,13 @@ const currencies = [
         sell: 3.789
     },
     {
-        code: "GBP Funt Brytyjski",
+        code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 5.014,
         sell: 5.093
     },
     {
-        code: "CHF Frank Szwajcarski",
+        code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
         buy: 4.63,
         sell: 4.705
@@ -48,13 +48,13 @@ const currencies = [
         sell: 2.707
     },
     {
-        code: "CZK Korona Czeska ",
+        code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.1754,
         sell: 0.1799
     },
     {
-        code: "DKK Korona duśnka",
+        code: "DKK Korona duńska",
         flag: "🇩🇰",
         buy: 0.538,
         sell: 0.583
@@ -230,7 +230,7 @@ const currencies = [
 {
     code: "HKD",
     flag: "🇭🇰",
-    buy: 0.442,
+    buy: 0.443,
     sell: 0.505
 },
 {
