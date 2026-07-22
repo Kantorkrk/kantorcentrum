@@ -410,7 +410,7 @@ const currencies = [
 {
     code: "PHP",
     flag: "🇵🇭",
-    buy: 0.0575,
+    buy: 0.0574,
     sell: 0.0744
 },
 {
