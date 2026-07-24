@@ -266,7 +266,7 @@ const currencies = [
 {
     code: "JOD",
     flag: "🇯🇴",
-    buy: 4.66,
+    buy: 4.62,
     sell: 5.44
 },
 {
