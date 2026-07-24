@@ -356,7 +356,7 @@ const currencies = [
 {
     code: "MUR",
     flag: "🇲🇺",
-    buy: 0.071,
+    buy: 0.072,
     sell: 0.114
 },
 {
