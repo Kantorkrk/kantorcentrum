@@ -254,7 +254,7 @@ const currencies = [
 {
     code: "ISK",
     flag: "🇮🇸",
-    buy: 0.027,
+    buy: 0.0265,
     sell: 0.0293
 },
 {
