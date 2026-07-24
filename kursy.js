@@ -105,7 +105,7 @@ const currencies = [
     code: "ARS Peso argentyńskie",
     flag: "🇦🇷",
     buy: 0.0021,
-    sell: 0.0052
+    sell: 0.0051
 },
 {
     code: "AZN Manat azerski ",
@@ -531,6 +531,6 @@ const currencies = [
     code: "ZAR",
     flag: "🇿🇦",
     buy: 0.224,
-    sell: 0.264
+    sell: 0.262
 },
 ];
