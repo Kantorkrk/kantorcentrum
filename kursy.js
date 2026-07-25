@@ -26,26 +26,26 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 4.982,
+        buy: 4.983,
         sell: 5.072
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.59,
+        buy: 4.58,
         sell: 4.675
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.585,
-        sell: 2.668
+        buy: 2.58,
+        sell: 2.659
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.65,
-        sell: 2.708
+        buy: 2.631,
+        sell: 2.707
     },
     {
         code: "CZK Korona czeska ",
@@ -116,7 +116,7 @@ const currencies = [
 {
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
-    buy: 2.24,
+    buy: 2.26,
     sell: 2.416
 },
 {
