@@ -242,8 +242,8 @@ const currencies = [
 {
     code: "ILS",
     flag: "🇮🇱",
-    buy: 1.105,
-    sell: 1.245
+    buy: 1.106,
+    sell: 1.244
 },
 {
     code: "INR",
@@ -254,7 +254,7 @@ const currencies = [
 {
     code: "ISK",
     flag: "🇮🇸",
-    buy: 0.0245,
+    buy: 0.0243,
     sell: 0.0289
 },
 {
