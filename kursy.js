@@ -183,7 +183,7 @@ const currencies = [
     code: "COP",
     flag: "🇨🇴",
     buy: 0.0085,
-    sell: 0.0124
+    sell: 0.0126
 },
 {
     code: "CRC",
