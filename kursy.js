@@ -398,8 +398,8 @@ const currencies = [
 {
     code: "OMR",
     flag: "🇴🇲",
-    buy: 8.62,
-    sell: 10.1
+    buy: 8.63,
+    sell: 9.99
 },
 {
     code: "PEN",
