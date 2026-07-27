@@ -14,7 +14,7 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.74,
+        buy: 3.745,
         sell: 3.805
     },
      {
@@ -231,7 +231,7 @@ const currencies = [
     code: "HKD",
     flag: "🇭🇰",
     buy: 0.443,
-    sell: 0.505
+    sell: 0.504
 },
 {
     code: "IDR",
@@ -290,8 +290,8 @@ const currencies = [
 {
     code: "KRW",
     flag: "🇰🇷",
-    buy: 0.00252,
-    sell: 0.00269
+    buy: 0.002533,
+    sell: 0.00268
 },
 {
     code: "KZT",
