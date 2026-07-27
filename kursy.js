@@ -32,7 +32,7 @@ const currencies = [
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.58,
+        buy: 4.585,
         sell: 4.665
     },
     {
@@ -62,7 +62,7 @@ const currencies = [
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
-        buy: 0.312,
+        buy: 0.314,
         sell: 0.352
     },
     {
@@ -368,8 +368,8 @@ const currencies = [
 {
     code: "MXN",
     flag: "🇲🇽",
-    buy: 0.207,
-    sell: 0.236
+    buy: 0.208,
+    sell: 0.234
 },
 {
     code: "MYR",
