@@ -14,13 +14,13 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.763,
-        sell: 3.808
+        buy: 3.755,
+        sell: 3.807
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.754,
+        buy: 3.742,
         sell: 3.798
     },
     {
