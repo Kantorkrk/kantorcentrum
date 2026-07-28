@@ -138,13 +138,13 @@ const currencies = [
     sell: 0.66
 },
 {
-    code: "BYN",
+    code: "BYN Rubel białoruski",
     flag: "🇧🇾",
     buy: 1.05,
     sell: 1.445
 },
     {
-    code: "BRL",
+    code: "BRL Real brazylijski",
     flag: "🇧🇷",
     buy: 0.74,
     sell: 0.83
@@ -398,7 +398,7 @@ const currencies = [
 {
     code: "OMR",
     flag: "🇴🇲",
-    buy: 8.63,
+    buy: 8.72,
     sell: 9.99
 },
 {
