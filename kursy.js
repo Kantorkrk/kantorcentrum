@@ -168,37 +168,37 @@ const currencies = [
     sell: 0.377
 },
 {
-    code: "CNY",
+    code: "CNY Juan chiński",
     flag: "🇨🇳",
     buy: 0.522,
     sell: 0.575
 },
 {
-    code: "CLP",
+    code: "CLP Peso chilijskie",
     flag: "🇨🇱",
     buy: 0.00381,
     sell: 0.00452
 },
 {
-    code: "COP",
+    code: "COP Peso kolumbijskie",
     flag: "🇨🇴",
     buy: 0.0085,
     sell: 0.0127
 },
 {
-    code: "CRC",
+    code: "CRC Colon kostarykański",
     flag: "🇨🇷",
     buy: 0.00683,
     sell: 0.0107
 },
 {
-    code: "DOP",
+    code: "DOP Peso dominikańskie",
     flag: "🇩🇴",
     buy: 0.0575,
     sell: 0.075
 },
 {
-    code: "EGP",
+    code: "EGP Funt egipski",
     flag: "🇪🇬",
     buy: 0.715,
     sell: 0.935
