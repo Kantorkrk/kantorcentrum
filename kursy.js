@@ -218,8 +218,8 @@ const currencies = [
 {
     code: "GEL",
     flag: "🇬🇪",
-    buy: 1.435,
-    sell: 1.515
+    buy: 1.445,
+    sell: 1.537
 },
 {
     code: "GTQ",
