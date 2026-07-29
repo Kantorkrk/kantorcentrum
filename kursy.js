@@ -44,7 +44,7 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.654,
+        buy: 2.661,
         sell: 2.709
     },
     {
@@ -69,7 +69,7 @@ const currencies = [
         code: "SEK Korona szwedzka ",
         flag: "🇸🇪",
         buy: 0.332,
-        sell: 0.362
+        sell: 0.363
     },
     {
         code: "HUF Forint Węgry",
