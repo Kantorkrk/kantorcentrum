@@ -20,7 +20,7 @@ const currencies = [
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.70,
+        buy: 3.694,
         sell: 3.776
     },
     {
@@ -68,7 +68,7 @@ const currencies = [
     {
         code: "SEK Korona szwedzka ",
         flag: "🇸🇪",
-        buy: 0.328,
+        buy: 0.327,
         sell: 0.363
     },
     {
@@ -98,8 +98,8 @@ const currencies = [
 {
     code: "AMD Dram armeński",
     flag: "🇦🇲",
-    buy: 0.0082,
-    sell: 0.01206
+    buy: 0.0083,
+    sell: 0.0122
 },
 {
     code: "ARS Peso argentyńskie",
@@ -117,7 +117,7 @@ const currencies = [
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
     buy: 2.26,
-    sell: 2.416
+    sell: 2.418
 },
 {
     code: "BDT Taka Bangladesz ",
@@ -243,7 +243,7 @@ const currencies = [
     code: "ILS",
     flag: "🇮🇱",
     buy: 1.106,
-    sell: 1.238
+    sell: 1.237
 },
 {
     code: "INR",
@@ -255,7 +255,7 @@ const currencies = [
     code: "ISK",
     flag: "🇮🇸",
     buy: 0.0232,
-    sell: 0.0288
+    sell: 0.0287
 },
 {
     code: "IQD",
@@ -320,13 +320,13 @@ const currencies = [
 {
     code: "MAD",
     flag: "🇲🇦",
-    buy: 0.416,
+    buy: 0.415,
     sell: 0.458
 },
 {
     code: "MDL",
     flag: "🇲🇩",
-    buy: 0.221,
+    buy: 0.219,
     sell: 0.267
 },
 {
@@ -404,13 +404,13 @@ const currencies = [
 {
     code: "PEN",
     flag: "🇵🇪",
-    buy: 1.044,
+    buy: 1.046,
     sell: 1.279
 },
 {
     code: "PHP",
     flag: "🇵🇭",
-    buy: 0.0574,
+    buy: 0.0573,
     sell: 0.0744
 },
 {
