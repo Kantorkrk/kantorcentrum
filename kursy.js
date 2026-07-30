@@ -51,7 +51,7 @@ const currencies = [
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.1752,
-        sell: 0.1797
+        sell: 0.1796
     },
     {
         code: "DKK Korona duńska",
@@ -74,8 +74,8 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01181,
-        sell: 0.01239
+        buy: 0.0118,
+        sell: 0.01238
     },
     {
         code: "JPY Jen japoński",
