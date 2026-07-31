@@ -242,7 +242,7 @@ const currencies = [
 {
     code: "ILS",
     flag: "🇮🇱",
-    buy: 1.106,
+    buy: 1.101,
     sell: 1.237
 },
 {
