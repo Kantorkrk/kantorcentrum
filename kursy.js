@@ -122,20 +122,20 @@ const currencies = [
 {
     code: "BDT Taka Bangladesz ",
     flag: "🇧🇩",
-    buy: 0.017,
-    sell: 0.033
+    buy: 0.0175,
+    sell: 0.034
 },
 {
     code: "BHD Dinar Bahrajn",
     flag: "🇧🇭",
     buy: 9.1,
-    sell: 10.2
+    sell: 10.15
 },
 {
-    code: "BOB",
+    code: "BOB Boliviano ",
     flag: "🇧🇴",
-    buy: 0.34,
-    sell: 0.66
+    buy: 0.146,
+    sell: 0.59
 },
 {
     code: "BYN Rubel białoruski",
@@ -158,11 +158,11 @@ const currencies = [
 {
     code: "BND",
     flag: "🇧🇳",
-    buy: 2.51,
+    buy: 2.54,
     sell: 3.27
 },
 {
-    code: "BWP",
+    code: "BWP Pula bostwańska",
     flag: "🇧🇼",
     buy: 0.21,
     sell: 0.377
@@ -206,31 +206,31 @@ const currencies = [
     {
     code: "ETB",
     flag: "🇪🇹",
-    buy: 0.015,
-    sell: 0.03
+    buy: 0.0155,
+    sell: 0.0304
 },
 {
     code: "FJD",
     flag: "🇫🇯",
     buy: 1.52,
-    sell: 1.815
+    sell: 1.825
 },
 {
     code: "GEL",
     flag: "🇬🇪",
-    buy: 1.445,
+    buy: 1.442,
     sell: 1.537
 },
 {
     code: "GTQ",
     flag: "🇬🇹",
-    buy: 0.35,
-    sell: 0.598
+    buy: 0.32,
+    sell: 0.595
 },
 {
     code: "HKD",
     flag: "🇭🇰",
-    buy: 0.443,
+    buy: 0.442,
     sell: 0.504
 },
 {
