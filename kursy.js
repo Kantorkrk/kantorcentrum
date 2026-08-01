@@ -15,7 +15,7 @@ const currencies = [
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
         buy: 3.703,
-        sell: 3.774
+        sell: 3.768
     },
      {
         code: "USD old",
@@ -74,7 +74,7 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01174,
+        buy: 0.01173,
         sell: 0.01238
     },
     {
