@@ -27,7 +27,7 @@ const currencies = [
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 4.96,
-        sell: 5.047
+        sell: 5.048
     },
     {
         code: "CHF Frank szwajcarski",
@@ -210,67 +210,67 @@ const currencies = [
     sell: 0.0304
 },
 {
-    code: "FJD",
+    code: "FJD dolar Fidżi",
     flag: "🇫🇯",
     buy: 1.52,
     sell: 1.825
 },
 {
-    code: "GEL",
+    code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
     buy: 1.442,
     sell: 1.537
 },
 {
-    code: "GTQ",
+    code: "GTQ Quetzal gwatemalski",
     flag: "🇬🇹",
     buy: 0.32,
     sell: 0.595
 },
 {
-    code: "HKD",
+    code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
     buy: 0.442,
     sell: 0.504
 },
 {
-    code: "IDR",
+    code: "IDR Rupia indonezyjska",
     flag: "🇮🇩",
     buy: 0.000212,
     sell: 0.000258
 },
 {
-    code: "ILS",
+    code: "ILS Szekel izraelski",
     flag: "🇮🇱",
     buy: 1.101,
     sell: 1.237
 },
 {
-    code: "INR",
+    code: "INR Rupia indyjska",
     flag: "🇮🇳",
     buy: 0.0384,
     sell: 0.0442
 },
 {
-    code: "ISK",
+    code: "ISK Korona islandzka",
     flag: "🇮🇸",
     buy: 0.0232,
     sell: 0.0287
 },
 {
-    code: "IQD",
+    code: "IQD Dinar iracki",
     flag: "🇮🇶",
     buy: 0.00232,
     sell: 0.00327
 },
 {
-    code: "JOD",
+    code: "JOD Dinar jordański",
     flag: "🇯🇴",
     buy: 4.62,
     sell: 5.44
 },
 {
-    code: "JMD",
+    code: "JMD Dolar jamajski",
     flag: "🇯🇲",
     buy: 0.0155,
     sell: 0.0296
@@ -464,7 +464,7 @@ const currencies = [
 {
     code: "THB",
     flag: "🇹🇭",
-    buy: 0.1121,
+    buy: 0.1118,
     sell: 0.1206
 },
 {
