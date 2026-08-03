@@ -170,7 +170,7 @@ const currencies = [
 {
     code: "CNY Juan chiński",
     flag: "🇨🇳",
-    buy: 0.522,
+    buy: 0.523,
     sell: 0.575
 },
 {
@@ -326,13 +326,13 @@ const currencies = [
 {
     code: "MDL",
     flag: "🇲🇩",
-    buy: 0.219,
+    buy: 0.221,
     sell: 0.267
 },
 {
     code: "MKD",
     flag: "🇲🇰",
-    buy: 0.0723,
+    buy: 0.0724,
     sell: 0.0789
 },
 {
