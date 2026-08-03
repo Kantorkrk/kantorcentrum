@@ -332,7 +332,7 @@ const currencies = [
 {
     code: "MKD",
     flag: "🇲🇰",
-    buy: 0.0715,
+    buy: 0.0723,
     sell: 0.0789
 },
 {
@@ -422,14 +422,14 @@ const currencies = [
 {
     code: "RON",
     flag: "🇷🇴",
-    buy: 0.825,
+    buy: 0.832,
     sell: 0.889
 },
 {
     code: "RUB",
     flag: "🇷🇺",
-    buy: 0.0435,
-    sell: 0.0503
+    buy: 0.0429,
+    sell: 0.0502
 },
 {
     code: "RSD",
@@ -483,7 +483,7 @@ const currencies = [
     code: "TRY",
     flag: "🇹🇷",
     buy: 0.0818,
-    sell: 0.0897
+    sell: 0.0895
 },
 {
     code: "TTD",
