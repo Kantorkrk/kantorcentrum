@@ -200,8 +200,8 @@ const currencies = [
 {
     code: "EGP Funt egipski",
     flag: "🇪🇬",
-    buy: 0.715,
-    sell: 0.935
+    buy: 0.72,
+    sell: 0.92
 },
     {
     code: "ETB",
