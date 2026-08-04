@@ -242,8 +242,8 @@ const currencies = [
 {
     code: "ILS Szekel izraelski",
     flag: "🇮🇱",
-    buy: 1.101,
-    sell: 1.237
+    buy: 1.102,
+    sell: 1.236
 },
 {
     code: "INR Rupia indyjska",
@@ -276,7 +276,7 @@ const currencies = [
     sell: 0.0296
 },
 {
-    code: "KES",
+    code: "KES Szyning kenisjki ",
     flag: "🇰🇪",
     buy: 0.026,
     sell: 0.0358
@@ -288,13 +288,13 @@ const currencies = [
     sell: 0.0544
 },
 {
-    code: "KRW",
+    code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.002533,
     sell: 0.00268
 },
 {
-    code: "KZT",
+    code: "KZT Tenge kazachskie ",
     flag: "🇰🇿",
     buy: 0.0075,
     sell: 0.0106
@@ -447,7 +447,7 @@ const currencies = [
     code: "SAR",
     flag: "🇸🇦",
     buy: 0.88,
-    sell: 0,995
+    sell: 0.995
 },
     {
     code: "SCR",
