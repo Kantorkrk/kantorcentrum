@@ -3,7 +3,7 @@ wconst currencies = [
         code: "EUR EURO",
         flag: "🇪🇺",
         buy: 4.26,
-        sell: 4.339
+        sell: 4.338
     },
      {
         code: "EUR >10k EURO",
@@ -14,7 +14,7 @@ wconst currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.713,
+        buy: 3.712,
         sell: 3.753
     },
      {
