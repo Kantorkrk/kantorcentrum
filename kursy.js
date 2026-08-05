@@ -170,7 +170,7 @@ const currencies = [
 {
     code: "CNY Juan chiński",
     flag: "🇨🇳",
-    buy: 0.536,
+    buy: 0.533,
     sell: 0.574
 },
 {
