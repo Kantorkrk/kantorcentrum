@@ -282,7 +282,7 @@ const currencies = [
     sell: 0.0358
 },
     {
-    code: "KGS",
+    code: "KGS Som kirgiski",
     flag: "🇰🇬",
     buy: 0.038,
     sell: 0.0544
@@ -300,7 +300,7 @@ const currencies = [
     sell: 0.0106
 },
 {
-    code: "KWD",
+    code: "KWD Dinar kuwejcki",
     flag: "🇰🇼",
     buy: 10.60,
     sell: 12.25
@@ -312,27 +312,27 @@ const currencies = [
     sell: 0.00026
 },
 {
-    code: "LKR",
+    code: "LKR Rupia lankijska ",
     flag: "🇱🇰",
     buy: 0.0101,
     sell: 0.0158
 },
 {
-    code: "MAD",
+    code: "MAD Dirham marokański",
     flag: "🇲🇦",
     buy: 0.415,
     sell: 0.454
 },
 {
-    code: "MDL",
+    code: "MDL Lej mołdawski",
     flag: "🇲🇩",
     buy: 0.221,
     sell: 0.267
 },
 {
-    code: "MKD",
+    code: "MKD Denar macedoński",
     flag: "🇲🇰",
-    buy: 0.0724,
+    buy: 0.0725,
     sell: 0.0789
 },
 {
@@ -429,13 +429,13 @@ const currencies = [
     code: "RUB",
     flag: "🇷🇺",
     buy: 0.0424,
-    sell: 0.0499
+    sell: 0.0498
 },
 {
     code: "RSD",
     flag: "🇷🇸",
     buy: 0.0365,
-    sell: 0.0411
+    sell: 0.0409
 },
 {
     code: "QAR",
