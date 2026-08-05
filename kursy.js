@@ -1,4 +1,4 @@
-const currencies = [
+wconst currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
@@ -86,8 +86,8 @@ const currencies = [
     {
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
-    buy: 0.956,
-    sell: 1.027
+    buy: 0.972, 
+    sell: 1.029
 },
 {
     code: "ALL Lek albański",
