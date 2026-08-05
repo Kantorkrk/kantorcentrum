@@ -320,8 +320,8 @@ const currencies = [
 {
     code: "MAD",
     flag: "🇲🇦",
-    buy: 0.414,
-    sell: 0.453
+    buy: 0.415,
+    sell: 0.454
 },
 {
     code: "MDL",
