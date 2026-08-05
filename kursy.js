@@ -447,7 +447,7 @@ const currencies = [
     code: "SAR",
     flag: "🇸🇦",
     buy: 0.88,
-    sell: 0.995
+    sell: 0.994
 },
     {
     code: "SCR",
