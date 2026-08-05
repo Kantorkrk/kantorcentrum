@@ -1,4 +1,4 @@
-wconst currencies = [
+const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
@@ -8,8 +8,8 @@ wconst currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.28,
-        sell: 4.327
+        buy: 4.281,
+        sell: 4.314
     },
     {
         code: "USD Dolar od 2009",
