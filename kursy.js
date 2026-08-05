@@ -429,7 +429,7 @@ const currencies = [
     code: "RUB",
     flag: "🇷🇺",
     buy: 0.0424,
-    sell: 0.0502
+    sell: 0.0499
 },
 {
     code: "RSD",
