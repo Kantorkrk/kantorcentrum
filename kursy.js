@@ -38,13 +38,13 @@ const currencies = [
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.57,
-        sell: 2.648
+        buy: 2.574,
+        sell: 2.649
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.612,
+        buy: 2.613,
         sell: 2.674
     },
     {
@@ -57,13 +57,13 @@ const currencies = [
         code: "DKK Korona duńska",
         flag: "🇩🇰",
         buy: 0.531,
-        sell: 0.578
+        sell: 0.577
     },
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
         buy: 0.318,
-        sell: 0.3487
+        sell: 0.348
     },
     {
         code: "SEK Korona szwedzka ",
@@ -74,7 +74,7 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01174,
+        buy: 0.01173,
         sell: 0.01237
     },
     {
