@@ -393,7 +393,7 @@ const currencies = [
     code: "NZD",
     flag: "🇳🇿",
     buy: 2.155,
-    sell: 2.328
+    sell: 2.326
 },
 {
     code: "OMR",
