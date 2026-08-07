@@ -3,7 +3,7 @@ const currencies = [
         code: "EUR EURO",
         flag: "🇪🇺",
         buy: 4.25, 
-        sell: 4.309
+        sell: 4.315
     },
      {
         code: "EUR >10k EURO",
@@ -93,7 +93,7 @@ const currencies = [
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0456,
-    sell: 0.0489
+    sell: 0.0493
 },
 {
     code: "AMD Dram armeński",
