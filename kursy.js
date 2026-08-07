@@ -86,7 +86,7 @@ const currencies = [
     {
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
-    buy: 0.972, 
+    buy: 0.973, 
     sell: 1.029
 },
 {
