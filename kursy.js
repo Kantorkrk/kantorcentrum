@@ -74,7 +74,7 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01173,
+        buy: 0.01174,
         sell: 0.01237
     },
     {
