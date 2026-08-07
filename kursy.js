@@ -398,7 +398,7 @@ const currencies = [
 {
     code: "OMR",
     flag: "🇴🇲",
-    buy: 8.72,
+    buy: 8.73,
     sell: 9.99
 },
 {
