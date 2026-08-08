@@ -422,7 +422,7 @@ const currencies = [
 {
     code: "RON",
     flag: "🇷🇴",
-    buy: 0.832,
+    buy: 0.842,
     sell: 0.889
 },
 {
