@@ -51,7 +51,7 @@ const currencies = [
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.1752,
-        sell: 0.1796
+        sell: 0.1797
     },
     {
         code: "DKK Korona duńska",
