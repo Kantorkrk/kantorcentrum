@@ -20,7 +20,7 @@ const currencies = [
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.673,
+        buy: 3.672,
         sell: 3.72
     },
     {
