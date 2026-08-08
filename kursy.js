@@ -512,8 +512,8 @@ const currencies = [
 {
     code: "UAH",
     flag: "🇺🇦",
-    buy: 0.0792,
-    sell: 0.0845
+    buy: 0.0791,
+    sell: 0.0838
 },
 {
     code: "UYU",
