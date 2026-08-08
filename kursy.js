@@ -182,8 +182,8 @@ const currencies = [
 {
     code: "COP Peso kolumbijskie",
     flag: "🇨🇴",
-    buy: 0.0085,
-    sell: 0.0127
+    buy: 0.0088,
+    sell: 0.0129
 },
 {
     code: "CRC Colon kostarykański",
