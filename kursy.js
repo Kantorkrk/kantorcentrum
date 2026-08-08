@@ -62,7 +62,7 @@ const currencies = [
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
-        buy: 0.315,
+        buy: 0.316,
         sell: 0.345
     },
     {
