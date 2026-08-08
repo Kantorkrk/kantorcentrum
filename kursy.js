@@ -38,13 +38,13 @@ const currencies = [
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.586,
+        buy: 2.585,
         sell: 2.648
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.623,
+        buy: 2.625,
         sell: 2.675
     },
     {
