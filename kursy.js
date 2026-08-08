@@ -434,8 +434,8 @@ const currencies = [
 {
     code: "RSD",
     flag: "🇷🇸",
-    buy: 0.0365,
-    sell: 0.0409
+    buy: 0.0366,
+    sell: 0.0413
 },
 {
     code: "QAR",
