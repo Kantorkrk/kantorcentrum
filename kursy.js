@@ -32,7 +32,7 @@ const currencies = [
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.565,
+        buy: 4.56,
         sell: 4.638
     },
     {
