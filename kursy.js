@@ -44,7 +44,7 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.622,
+        buy: 2.623,
         sell: 2.675
     },
     {
