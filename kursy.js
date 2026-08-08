@@ -147,7 +147,7 @@ const currencies = [
     code: "BRL Real brazylijski",
     flag: "🇧🇷",
     buy: 0.736,
-    sell: 0.828
+    sell: 0.837
 },
 {
     code: "BBD",
