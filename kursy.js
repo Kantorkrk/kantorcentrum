@@ -205,7 +205,7 @@ const currencies = [
     sell: 0.942
 },
     {
-    code: "ETB",
+    code: "ETB Bir etiopski ",
     flag: "🇪🇹",
     buy: 0.0155,
     sell: 0.0304
@@ -307,7 +307,7 @@ const currencies = [
     sell: 12.25
 },
 {
-    code: "LAK",
+    code: "LAK Kip laotański ",
     flag: "🇱🇦",
     buy: 0.00012,
     sell: 0.00026
@@ -337,121 +337,121 @@ const currencies = [
     sell: 0.0789
 },
 {
-    code: "MMK",
+    code: "MMK Kiat birmański ",
     flag: "🇲🇲",
     buy: 0.0011,
     sell: 0.0028
 },
 {
-    code: "MNT",
+    code: "MNT Tugrik mongolski ",
     flag: "🇲🇳",
     buy: 0.00082,
     sell: 0.00118
 },
 {
-    code: "MOP",
+    code: "MOP Pataca makau",
     flag: "🇲🇴",
     buy: 0.355,
     sell: 0.521
 },
 {
-    code: "MUR",
+    code: "MUR Rupia maurytyjska",
     flag: "🇲🇺",
     buy: 0.072,
     sell: 0.114
 },
 {
-    code: "MVR",
+    code: "MVR Rupia malediwska",
     flag: "🇲🇻",
     buy: 0.191,
     sell: 0.347
 },
 {
-    code: "MXN",
+    code: "MXN Peso meksykańskie",
     flag: "🇲🇽",
     buy: 0.208,
     sell: 0.23
 },
 {
-    code: "MYR",
+    code: "MYR Ringgit malezyjski ",
     flag: "🇲🇾",
     buy: 0.895,
     sell: 0.995
 },
     {
-    code: "NAD",
+    code: "NAD Dolar namibijski ",
     flag: "🇳🇦",
     buy: 0.171,
     sell: 0.277
 },
 {
-    code: "NPR",
+    code: "NPR Rupia nepalska ",
     flag: "🇳🇵",
     buy: 0.02,
     sell: 0.0365
 },
 {
-    code: "NZD",
+    code: "NZD Dolar nowozelandzki",
     flag: "🇳🇿",
     buy: 2.155,
     sell: 2.326
 },
 {
-    code: "OMR",
+    code: "OMR Rial omański",
     flag: "🇴🇲",
     buy: 8.73,
     sell: 9.99
 },
 {
-    code: "PEN",
+    code: "PEN Sol peruwiański ",
     flag: "🇵🇪",
     buy: 1.046,
     sell: 1.279
 },
 {
-    code: "PHP",
+    code: "PHP Peso filipińskie",
     flag: "🇵🇭",
     buy: 0.0573,
     sell: 0.0744
 },
 {
-    code: "PYG",
+    code: "PYG Guarani paragwajskie ",
     flag: "🇵🇾",
     buy: 0.00036,
     sell: 0.00068
 },
 {
-    code: "RON",
+    code: "RON Lej rumuński",
     flag: "🇷🇴",
     buy: 0.842,
     sell: 0.889
 },
 {
-    code: "RUB",
+    code: "RUB Rubel rosyjski",
     flag: "🇷🇺",
     buy: 0.0424,
     sell: 0.0498
 },
 {
-    code: "RSD",
+    code: "RSD Dinar serbski ",
     flag: "🇷🇸",
     buy: 0.0366,
     sell: 0.0413
 },
 {
-    code: "QAR",
+    code: "QAR Rial katarski ",
     flag: "🇶🇦",
     buy: 0.90,
     sell: 1.064
 },
 {
-    code: "SAR",
+    code: "SAR Rial saudyjski",
     flag: "🇸🇦",
     buy: 0.88,
     sell: 0.994
 },
     {
-    code: "SCR",
+    code: "SCR Rupia seszelska ",
     flag: "🇸🇨",
     buy: 0.252,
     sell: 0.367
