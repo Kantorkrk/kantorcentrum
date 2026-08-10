@@ -15,7 +15,7 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.711,
+        buy: 3.706,
         sell: 3.73
     },
      {
@@ -333,7 +333,7 @@ const currencies = [
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
-    buy: 0.0726,
+    buy: 0.0737,
     sell: 0.0789
 },
 {
