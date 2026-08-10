@@ -237,8 +237,8 @@ const currencies = [
 {
     code: "IDR Rupia indonezyjska",
     flag: "🇮🇩",
-    buy: 0.000212,
-    sell: 0.000258
+    buy: 0.000207,
+    sell: 0.000257
 },
 {
     code: "ILS Szekel izraelski",
