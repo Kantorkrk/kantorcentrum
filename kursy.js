@@ -93,8 +93,8 @@ const currencies = [
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
-    buy: 0.0456,
-    sell: 0.0493
+    buy: 0.0455,
+    sell: 0.0488
 },
 {
     code: "AMD Dram armeński",
