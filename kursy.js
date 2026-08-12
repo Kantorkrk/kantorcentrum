@@ -22,13 +22,13 @@ const currencies = [
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.665,
-        sell: 3.726
+        sell: 3.725
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 4.965,
-        sell: 5.033
+        sell: 5.035
     },
     {
         code: "CHF Frank szwajcarski",
