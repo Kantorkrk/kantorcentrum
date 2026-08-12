@@ -400,7 +400,7 @@ const currencies = [
     code: "OMR Rial omański",
     flag: "🇴🇲",
     buy: 8.73,
-    sell: 9.99
+    sell: 9.98
 },
 {
     code: "PEN Sol peruwiański ",
@@ -447,8 +447,8 @@ const currencies = [
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.88,
-    sell: 0.994
+    buy: 0.885,
+    sell: 0.995
 },
     {
     code: "SCR Rupia seszelska ",
