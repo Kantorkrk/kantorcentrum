@@ -58,7 +58,7 @@ const currencies = [
         code: "DKK Korona duńska",
         flag: "🇩🇰",
         buy: 0.531,
-        sell: 0.577
+        sell: 0.576
     },
     {
         code: "NOK Korona norweska",
@@ -82,7 +82,7 @@ const currencies = [
         code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0233,
-        sell: 0.0255
+        sell: 0.0254
     },
     {
     code: "AED Dirham ZEA  ",
@@ -93,7 +93,7 @@ const currencies = [
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
-    buy: 0.0455,
+    buy: 0.0457,
     sell: 0.0491
 },
 {
@@ -202,7 +202,7 @@ const currencies = [
     code: "EGP Funt egipski",
     flag: "🇪🇬",
     buy: 0.72,
-    sell: 0.942
+    sell: 0.947
 },
     {
     code: "ETB Bir etiopski ",
@@ -255,8 +255,8 @@ const currencies = [
 {
     code: "ISK Korona islandzka",
     flag: "🇮🇸",
-    buy: 0.0233,
-    sell: 0.0287
+    buy: 0.0234,
+    sell: 0.0288
 },
 {
     code: "IQD Dinar iracki",
@@ -459,8 +459,8 @@ const currencies = [
     {
     code: "SGD",
     flag: "🇸🇬",
-    buy: 2.73,
-    sell: 2.98
+    buy: 2.735,
+    sell: 2.975
 },
 {
     code: "THB",
@@ -484,7 +484,7 @@ const currencies = [
     code: "TRY",
     flag: "🇹🇷",
     buy: 0.0816,
-    sell: 0.0895
+    sell: 0.0894
 },
 {
     code: "TTD",
@@ -514,7 +514,7 @@ const currencies = [
     code: "UAH",
     flag: "🇺🇦",
     buy: 0.0791,
-    sell: 0.0838
+    sell: 0.0843
 },
 {
     code: "UYU",
