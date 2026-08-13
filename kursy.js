@@ -94,7 +94,7 @@ const currencies = [
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0455,
-    sell: 0.0488
+    sell: 0.0491
 },
 {
     code: "AMD Dram armeński",
@@ -292,7 +292,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00254,
-    sell: 0.00273
+    sell: 0.00277
 },
 {
     code: "KZT Tenge kazachskie ",
