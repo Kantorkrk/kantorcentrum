@@ -8,7 +8,7 @@ const currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.282,
+        buy: 4.281,
         sell: 4.3085
 
     },
