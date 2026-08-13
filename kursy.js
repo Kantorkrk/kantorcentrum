@@ -3,32 +3,32 @@ const currencies = [
         code: "EUR EURO",
         flag: "🇪🇺",
         buy: 4.265, 
-        sell: 4.321
+        sell: 4.324
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.287,
-        sell: 4.31
+        buy: 4.291,
+        sell: 4.317
 
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.713,
-        sell: 3.743
+        buy: 3.717,
+        sell: 3.744
     },
      {
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.675,
-        sell: 3.733
+        sell: 3.734
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 4.9,73,
-        sell: 5.036
+        buy: 4.973,
+        sell: 5.043
     },
     {
         code: "CHF Frank szwajcarski",
