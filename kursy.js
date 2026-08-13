@@ -118,7 +118,7 @@ const currencies = [
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
     buy: 2.26,
-    sell: 2.418
+    sell: 2.44
 },
 {
     code: "BDT Taka Bangladesz ",
