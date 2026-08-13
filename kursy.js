@@ -75,8 +75,8 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01174,
-        sell: 0.01237
+        buy: 0.01172,
+        sell: 0.01235
     },
     {
         code: "JPY Jen japoński",
