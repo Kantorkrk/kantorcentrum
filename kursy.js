@@ -45,8 +45,8 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.625,
-        sell: 2.685
+        buy: 2.63,
+        sell: 2.688
     },
     {
         code: "CZK Korona czeska ",
