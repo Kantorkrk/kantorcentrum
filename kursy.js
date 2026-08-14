@@ -22,7 +22,7 @@ const currencies = [
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.676,
-        sell: 3.734
+        sell: 3.733
     },
     {
         code: "GBP Funt brytyjski",
@@ -87,7 +87,7 @@ const currencies = [
     {
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
-    buy: 0.973, 
+    buy: 0.974, 
     sell: 1.029
 },
 {
@@ -123,7 +123,7 @@ const currencies = [
 {
     code: "BDT Taka Bangladesz ",
     flag: "🇧🇩",
-    buy: 0.0175,
+    buy: 0.0172,
     sell: 0.034
 },
 {
@@ -148,7 +148,7 @@ const currencies = [
     code: "BRL Real brazylijski",
     flag: "🇧🇷",
     buy: 0.736,
-    sell: 0.836
+    sell: 0.835
 },
 {
     code: "BBD",
@@ -178,7 +178,7 @@ const currencies = [
     code: "CLP Peso chilijskie",
     flag: "🇨🇱",
     buy: 0.00381,
-    sell: 0.00452
+    sell: 0.00453
 },
 {
     code: "COP Peso kolumbijskie",
@@ -201,8 +201,8 @@ const currencies = [
 {
     code: "EGP Funt egipski",
     flag: "🇪🇬",
-    buy: 0.72,
-    sell: 0.947
+    buy: 0.072,
+    sell: 0.0947
 },
     {
     code: "ETB Bir etiopski ",
