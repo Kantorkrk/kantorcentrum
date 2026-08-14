@@ -333,8 +333,8 @@ const currencies = [
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
-    buy: 0.0737,
-    sell: 0.0789
+    buy: 0.0741,
+    sell: 0.0793
 },
 {
     code: "MMK Kiat birmański ",
