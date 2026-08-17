@@ -508,7 +508,7 @@ const currencies = [
     code: "VND",
     flag: "🇻🇳",
     buy: 0.000142,
-    sell: 0.000168
+    sell: 0.000169
 },
 {
     code: "UAH",
