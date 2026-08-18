@@ -15,7 +15,7 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.716,
+        buy: 3.717,
         sell: 3.748
     },
      {
@@ -322,7 +322,7 @@ const currencies = [
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
     buy: 0.421,
-    sell: 0.459
+    sell: 0.454
 },
 {
     code: "MDL Lej mołdawski",
@@ -334,7 +334,7 @@ const currencies = [
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
     buy: 0.0741,
-    sell: 0.0793
+    sell: 0.0798
 },
 {
     code: "MMK Kiat birmański ",
