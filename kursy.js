@@ -8,7 +8,7 @@ const currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.307,
+        buy: 4.304,
         sell: 4.321
 
     },
@@ -292,7 +292,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00254,
-    sell: 0.00285
+    sell: 0.00284
 },
 {
     code: "KZT Tenge kazachskie ",
