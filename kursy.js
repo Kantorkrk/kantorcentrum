@@ -370,7 +370,7 @@ const currencies = [
     code: "MXN Peso meksykańskie",
     flag: "🇲🇽",
     buy: 0.208,
-    sell: 0.23
+    sell: 0.232
 },
 {
     code: "MYR Ringgit malezyjski ",
