@@ -441,13 +441,13 @@ const currencies = [
 {
     code: "QAR Rial katarski ",
     flag: "🇶🇦",
-    buy: 0.90,
+    buy: 0.905,
     sell: 1.064
 },
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.885,
+    buy: 0.886,
     sell: 0.995
 },
     {
