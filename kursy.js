@@ -423,8 +423,8 @@ const currencies = [
 {
     code: "RON Lej rumuński",
     flag: "🇷🇴",
-    buy: 0.8277,
-    sell: 0.885
+    buy: 0.826,
+    sell: 0.871
 },
 {
     code: "RUB Rubel rosyjski",
