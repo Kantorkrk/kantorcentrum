@@ -39,7 +39,7 @@ const currencies = [
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.585, 
+        buy: 2.583, 
         sell: 2.666
     },
     {
