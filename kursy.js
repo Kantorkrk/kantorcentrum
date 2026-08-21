@@ -531,7 +531,7 @@ const currencies = [
 {
     code: "ZAR",
     flag: "🇿🇦",
-    buy: 0.2312,
+    buy: 0.232,
     sell: 0.262
 },
 ];
