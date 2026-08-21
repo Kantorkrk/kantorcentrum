@@ -8,7 +8,7 @@ const currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.307,
+        buy: 4.308,
         sell: 4.328
 
     },
@@ -81,7 +81,7 @@ const currencies = [
     {
         code: "JPY Jen japoński",
         flag: "🇯🇵",
-        buy: 0.0233,
+        buy: 0.0234,
         sell: 0.0254
     },
     {
