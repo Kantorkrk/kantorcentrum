@@ -27,8 +27,8 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.004,
-        sell: 5.048
+        buy: 5.002,
+        sell: 5.047
     },
     {
         code: "CHF Frank szwajcarski",
