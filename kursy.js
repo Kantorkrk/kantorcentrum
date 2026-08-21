@@ -21,8 +21,8 @@ const currencies = [
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.643,
-        sell: 3.693
+        buy: 3.641,
+        sell: 3.694
     },
     {
         code: "GBP Funt brytyjski",
