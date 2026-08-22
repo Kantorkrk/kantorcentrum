@@ -327,8 +327,8 @@ const currencies = [
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.221,
-    sell: 0.267
+    buy: 0.219,
+    sell: 0.255
 },
 {
     code: "MKD Denar macedoński",
