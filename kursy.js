@@ -141,7 +141,7 @@ const currencies = [
 {
     code: "BYN Rubel białoruski",
     flag: "🇧🇾",
-    buy: 1.05,
+    buy: 1.061,
     sell: 1.445
 },
     {
@@ -231,7 +231,7 @@ const currencies = [
 {
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
-    buy: 0.442,
+    buy: 0.443,
     sell: 0.504
 },
 {
@@ -267,7 +267,7 @@ const currencies = [
 {
     code: "JOD Dinar jordański",
     flag: "🇯🇴",
-    buy: 4.62,
+    buy: 4.52,
     sell: 5.44
 },
 {
@@ -399,8 +399,8 @@ const currencies = [
 {
     code: "OMR Rial omański",
     flag: "🇴🇲",
-    buy: 8.73,
-    sell: 9.98
+    buy: 8.81,
+    sell: 9.95
 },
 {
     code: "PEN Sol peruwiański ",
@@ -447,7 +447,7 @@ const currencies = [
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.886,
+    buy: 0.89,
     sell: 0.995
 },
     {
