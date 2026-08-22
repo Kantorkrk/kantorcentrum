@@ -15,7 +15,7 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.673,
+        buy: 3.677,
         sell: 3.705
     },
      {
@@ -117,8 +117,8 @@ const currencies = [
 {
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
-    buy: 2.26,
-    sell: 2.44
+    buy: 2.27,
+    sell: 2.436
 },
 {
     code: "BDT Taka Bangladesz ",
