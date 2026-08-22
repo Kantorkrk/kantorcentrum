@@ -8,8 +8,8 @@ const currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.295,
-        sell: 4.324
+        buy: 4.301,
+        sell: 4.325
 
     },
     {
@@ -33,7 +33,7 @@ const currencies = [
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.577,
+        buy: 4.582,
         sell: 4.625
     },
     {
@@ -45,7 +45,7 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.643,
+        buy: 2.644,
         sell: 2.705
     },
     {
