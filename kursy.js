@@ -117,7 +117,7 @@ const currencies = [
 {
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
-    buy: 2.27,
+    buy: 2.271,
     sell: 2.436
 },
 {
