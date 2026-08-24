@@ -75,8 +75,8 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01172,
-        sell: 0.01235
+        buy: 0.01171,
+        sell: 0.01234
     },
     {
         code: "JPY Jen japoński",
@@ -333,8 +333,8 @@ const currencies = [
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
-    buy: 0.0741,
-    sell: 0.0798
+    buy: 0.0742,
+    sell: 0.0799
 },
 {
     code: "MMK Kiat birmański ",
@@ -465,8 +465,8 @@ const currencies = [
 {
     code: "THB",
     flag: "🇹🇭",
-    buy: 0.1118,
-    sell: 0.1206
+    buy: 0.1121,
+    sell: 0.1205
 },
 {
     code: "TJS",
