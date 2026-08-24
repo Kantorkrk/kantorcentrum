@@ -2,7 +2,7 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.265, 
+        buy: 4.266, 
         sell: 4.336
     },
      {
@@ -21,7 +21,7 @@ const currencies = [
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.644,
+        buy: 3.645,
         sell: 3.699
     },
     {
@@ -429,8 +429,8 @@ const currencies = [
 {
     code: "RUB Rubel rosyjski",
     flag: "🇷🇺",
-    buy: 0.0425,
-    sell: 0.0494
+    buy: 0.0424,
+    sell: 0.0493
 },
 {
     code: "RSD Dinar serbski ",
@@ -483,7 +483,7 @@ const currencies = [
 {
     code: "TRY",
     flag: "🇹🇷",
-    buy: 0.0816,
+    buy: 0.0813,
     sell: 0.0894
 },
 {
