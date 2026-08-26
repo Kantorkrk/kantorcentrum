@@ -34,7 +34,7 @@ const currencies = [
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
         buy: 4.547,
-        sell: 4.618
+        sell: 4.619
     },
     {
         code: "AUD Dolar australijski ",
