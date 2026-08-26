@@ -2,13 +2,13 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.257, 
+        buy: 4.26, 
         sell: 4.337
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.29,
+        buy: 4.291,
         sell: 4.328
 
     },
