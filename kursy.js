@@ -219,7 +219,7 @@ const currencies = [
 {
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
-    buy: 1.42,
+    buy: 1.432,
     sell: 1.538
 },
 {
@@ -285,8 +285,8 @@ const currencies = [
     {
     code: "KGS Som kirgiski",
     flag: "🇰🇬",
-    buy: 0.038,
-    sell: 0.0544
+    buy: 0.0374,
+    sell: 0.0545
 },
 {
     code: "KRW Won koreański ",
