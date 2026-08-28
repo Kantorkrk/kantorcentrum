@@ -219,7 +219,7 @@ const currencies = [
 {
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
-    buy: 1.442,
+    buy: 1.42,
     sell: 1.538
 },
 {
