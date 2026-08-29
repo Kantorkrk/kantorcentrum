@@ -249,7 +249,7 @@ const currencies = [
 {
     code: "INR Rupia indyjska",
     flag: "🇮🇳",
-    buy: 0.0384,
+    buy: 0.038,
     sell: 0.0442
 },
 {
