@@ -2,20 +2,20 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.27, 
+        buy: 4.29, 
         sell: 4.355
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.302,
-        sell: 4.349
+        buy: 4.3022,
+        sell: 4.348
 
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.66,
+        buy: 3.686,
         sell: 3.754
     },
      {
@@ -27,14 +27,14 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 4.99,
-        sell: 5.07
+        buy: 5.01,
+        sell: 5.074
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.55,
-        sell: 4.644
+        buy: 4.57,
+        sell: 4.643
     },
     {
         code: "AUD Dolar australijski ",
@@ -45,26 +45,26 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.632,
-        sell: 2.698
+        buy: 2.634,
+        sell: 2.703
     },
     {
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.176,
-        sell: 0.1805
+        sell: 0.181
     },
     {
         code: "DKK Korona duńska",
         flag: "🇩🇰",
-        buy: 0.531,
-        sell: 0.575
+        buy: 0.532,
+        sell: 0.574
     },
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
         buy: 0.321,
-        sell: 0.344
+        sell: 0.345
     },
     {
         code: "SEK Korona szwedzka ",
@@ -82,19 +82,19 @@ const currencies = [
         code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0233,
-        sell: 0.02475
+        sell: 0.0249
     },
     {
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
-    buy: 0.964, 
+    buy: 0.963, 
     sell: 1.029
 },
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0461,
-    sell: 0.0495
+    sell: 0.0494
 },
 {
     code: "AMD Dram armeński",
@@ -291,8 +291,8 @@ const currencies = [
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.00254,
-    sell: 0.002897
+    buy: 0.00258,
+    sell: 0.002895
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -399,7 +399,7 @@ const currencies = [
 {
     code: "OMR Rial omański",
     flag: "🇴🇲",
-    buy: 8.81,
+    buy: 8.82,
     sell: 9.95
 },
 {
@@ -447,7 +447,7 @@ const currencies = [
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.89,
+    buy: 0.886,
     sell: 0.995
 },
     {
