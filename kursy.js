@@ -220,7 +220,7 @@ const currencies = [
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
     buy: 1.432,
-    sell: 1.538
+    sell: 1.539
 },
 {
     code: "GTQ Quetzal gwatemalski",
@@ -231,7 +231,7 @@ const currencies = [
 {
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
-    buy: 0.443,
+    buy: 0.442,
     sell: 0.504
 },
 {
@@ -376,7 +376,7 @@ const currencies = [
     code: "MYR Ringgit malezyjski ",
     flag: "🇲🇾",
     buy: 0.895,
-    sell: 0.995
+    sell: 0.997
 },
     {
     code: "NAD Dolar namibijski ",
@@ -442,7 +442,7 @@ const currencies = [
     code: "QAR Rial katarski ",
     flag: "🇶🇦",
     buy: 0.905,
-    sell: 1.064
+    sell: 1.063
 },
 {
     code: "SAR Rial saudyjski",
