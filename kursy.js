@@ -2,20 +2,20 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.275, 
-        sell: 4.354
+        buy: 4.271, 
+        sell: 4.353
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.301,
-        sell: 4.38
+        buy: 4.292 ,
+        sell: 4.346
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
         buy: 3.68,
-        sell: 3.748
+        sell: 3.747
     },
      {
         code: "USD old",
@@ -38,13 +38,13 @@ const currencies = [
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.624, 
+        buy: 2.612, 
         sell: 2.694
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.624,
+        buy: 2.625,
         sell: 2.704
     },
     {
