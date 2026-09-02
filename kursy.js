@@ -314,8 +314,8 @@ const currencies = [
 {
     code: "LKR Rupia lankijska ",
     flag: "🇱🇰",
-    buy: 0.0102,
-    sell: 0.0158
+    buy: 0.0101,
+    sell: 0.0156
 },
 {
     code: "MAD Dirham marokański",
