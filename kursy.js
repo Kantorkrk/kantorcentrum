@@ -2,49 +2,49 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.277, 
+        buy: 4.272, 
         sell: 4.354
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.29 ,
-        sell: 4.345
+        buy: 4.292 ,
+        sell: 4.344
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.69,
+        buy: 3.675,
         sell: 3.755
     },
      {
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.645,
-        sell: 3.745
+        sell: 3.742
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 4.97,
+        buy: 4.96,
         sell: 5.056
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.56,
-        sell: 4.648
+        buy: 4.55,
+        sell: 4.647
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.62, 
+        buy: 2.61, 
         sell: 2.697
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.621,
+        buy: 2.632,
         sell: 2.704
     },
     {
@@ -74,7 +74,7 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01161,
+        buy: 0.01163,
         sell: 0.01233
     },
     {
@@ -86,13 +86,13 @@ const currencies = [
     {
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
-    buy: 0.963, 
-    sell: 1.034
+    buy: 0.966, 
+    sell: 1.033
 },
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
-    buy: 0.0462,
+    buy: 0.0463,
     sell: 0.0496
 },
 {
@@ -111,7 +111,7 @@ const currencies = [
     code: "AZN Manat azerski ",
     flag: "🇦🇿",
     buy: 2.12,
-    sell: 2.435
+    sell: 2.434
 },
 {
     code: "BAM Marka Bośnia",
@@ -435,7 +435,7 @@ const currencies = [
     code: "RSD Dinar serbski ",
     flag: "🇷🇸",
     buy: 0.0366,
-    sell: 0.0413
+    sell: 0.0415
 },
 {
     code: "QAR Rial katarski ",
@@ -446,7 +446,7 @@ const currencies = [
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.887,
+    buy: 0.87,
     sell: 0.996
 },
     {
