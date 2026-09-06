@@ -8,14 +8,14 @@ const currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.285 ,
+        buy: 4.286 ,
         sell: 4.332
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.674,
-        sell: 3.739
+        buy: 3.675,
+        sell: 3.744
     },
      {
         code: "USD old",
@@ -93,13 +93,13 @@ const currencies = [
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0463,
-    sell: 0.0499
+    sell: 0.0503
 },
 {
     code: "AMD Dram armeński",
     flag: "🇦🇲",
     buy: 0.0083,
-    sell: 0.0121
+    sell: 0.0123
 },
 {
     code: "ARS Peso argentyńskie",
@@ -117,7 +117,7 @@ const currencies = [
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
     buy: 2.271,
-    sell: 2.436
+    sell: 2.437
 },
 {
     code: "BDT Taka Bangladesz ",
@@ -326,8 +326,8 @@ const currencies = [
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.217,
-    sell: 0.256
+    buy: 0.218,
+    sell: 0.264
 },
 {
     code: "MKD Denar macedoński",
