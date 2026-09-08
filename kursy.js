@@ -80,7 +80,7 @@ const currencies = [
     {
         code: "JPY Jen japoński",
         flag: "🇯🇵",
-        buy: 0.0233,
+        buy: 0.0237,
         sell: 0.0251
     },
     {
