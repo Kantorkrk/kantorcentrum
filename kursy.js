@@ -26,32 +26,32 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 4.965,
-        sell: 5.048
+        buy: 4.966,
+        sell: 5.047
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.54,
+        buy: 4.535,
         sell: 4.625
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.615, 
-        sell: 2.697
+        buy: 2.625, 
+        sell: 2.699
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.625,
-        sell: 2.706
+        sell: 2.707
     },
     {
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.1763,
-        sell: 0.181
+        sell: 0.1811
     },
     {
         code: "DKK Korona duńska",
@@ -81,7 +81,7 @@ const currencies = [
         code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0233,
-        sell: 0.02495
+        sell: 0.0251
     },
     {
     code: "AED Dirham ZEA  ",
