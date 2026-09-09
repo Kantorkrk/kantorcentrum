@@ -2,14 +2,14 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.271, 
-        sell: 4.345
+        buy: 4.276, 
+        sell: 4.344
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.285 ,
-        sell: 4.336
+        buy: 4.286 ,
+        sell: 4.335
     },
     {
         code: "USD Dolar od 2009",
@@ -20,14 +20,14 @@ const currencies = [
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.654,
+        buy: 3.655,
         sell: 3.727
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 4.97,
-        sell: 5.047
+        buy: 4.975,
+        sell: 5.048
     },
     {
         code: "CHF Frank szwajcarski",
@@ -291,7 +291,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00258,
-    sell: 0.00292
+    sell: 0.00294
 },
 {
     code: "KZT Tenge kazachskie ",
