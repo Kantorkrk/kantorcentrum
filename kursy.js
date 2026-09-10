@@ -15,37 +15,37 @@ const currencies = [
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
         buy: 3.67,
-        sell: 3.736
+        sell: 3.735
     },
      {
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.655,
-        sell: 3.727
+        sell: 3.726
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 4.975,
-        sell: 5.048
+        sell: 5.049
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.544,
+        buy: 4.545,
         sell: 4.627
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
         buy: 2.625, 
-        sell: 2.699
+        sell: 2.705
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.636,
-        sell: 2.707
+        sell: 2.708
     },
     {
         code: "CZK Korona czeska ",
@@ -56,7 +56,7 @@ const currencies = [
     {
         code: "DKK Korona duńska",
         flag: "🇩🇰",
-        buy: 0.531,
+        buy: 0.53,
         sell: 0.573
     },
     {
@@ -141,13 +141,13 @@ const currencies = [
     code: "BYN Rubel białoruski",
     flag: "🇧🇾",
     buy: 1.061,
-    sell: 1.445
+    sell: 1.438
 },
     {
     code: "BRL Real brazylijski",
     flag: "🇧🇷",
     buy: 0.736,
-    sell: 0.837
+    sell: 0.838
 },
 {
     code: "BBD",
@@ -164,14 +164,14 @@ const currencies = [
 {
     code: "BWP Pula bostwańska",
     flag: "🇧🇼",
-    buy: 0.21,
-    sell: 0.377
+    buy: 0.23,
+    sell: 0.378
 },
 {
     code: "CNY Juan chiński",
     flag: "🇨🇳",
     buy: 0.523,
-    sell: 0.585
+    sell: 0.583
 },
 {
     code: "CLP Peso chilijskie",
@@ -321,13 +321,13 @@ const currencies = [
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
     buy: 0.421,
-    sell: 0.455
+    sell: 0.458
 },
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
     buy: 0.218,
-    sell: 0.264
+    sell: 0.263
 },
 {
     code: "MKD Denar macedoński",
