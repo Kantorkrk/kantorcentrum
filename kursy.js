@@ -291,7 +291,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00258,
-    sell: 0.00294
+    sell: 0.00298
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -333,7 +333,7 @@ const currencies = [
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
     buy: 0.0743,
-    sell: 0.0799
+    sell: 0.0798
 },
 {
     code: "MMK Kiat birmański ",
