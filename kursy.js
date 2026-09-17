@@ -2,49 +2,49 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.287, 
-        sell: 4.374
+        buy: 4.29, 
+        sell: 4.378
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.312,
-        sell: 4.367
+        buy: 4.32,
+        sell: 4.368
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.735,
-        sell: 3.805
+        buy: 3.745,
+        sell: 3.808
     },
      {
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.685,
-        sell: 3.797
+        sell: 3.795
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.02,
-        sell: 5.091
+        buy: 5.03,
+        sell: 5.099
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.55,
-        sell: 4.628
+        buy: 4.56,
+        sell: 4.631
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.64, 
-        sell: 2.706
+        buy: 2.655, 
+        sell: 2.713
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.664,
+        buy: 2.66,
         sell: 2.733
     },
     {
@@ -81,7 +81,7 @@ const currencies = [
         code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0237,
-        sell: 0.0253
+        sell: 0.0259
     },
     {
     code: "AED Dirham ZEA  ",
@@ -171,7 +171,7 @@ const currencies = [
     code: "CNY Juan chiński",
     flag: "🇨🇳",
     buy: 0.524,
-    sell: 0.583
+    sell: 0.584
 },
 {
     code: "CLP Peso chilijskie",
@@ -236,7 +236,7 @@ const currencies = [
 {
     code: "IDR Rupia indonezyjska",
     flag: "🇮🇩",
-    buy: 0.000211,
+    buy: 0.000212,
     sell: 0.000272
 },
 {
@@ -248,7 +248,7 @@ const currencies = [
 {
     code: "INR Rupia indyjska",
     flag: "🇮🇳",
-    buy: 0.038,
+    buy: 0.0381,
     sell: 0.0442
 },
 {
@@ -428,8 +428,8 @@ const currencies = [
 {
     code: "RUB Rubel rosyjski",
     flag: "🇷🇺",
-    buy: 0.041,
-    sell: 0.0493
+    buy: 0.0412,
+    sell: 0.0485
 },
 {
     code: "RSD Dinar serbski ",
