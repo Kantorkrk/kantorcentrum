@@ -81,7 +81,7 @@ const currencies = [
         code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0238,
-        sell: 0.0259
+        sell: 0.0258
     },
     {
     code: "AED Dirham ZEA  ",
