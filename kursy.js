@@ -320,7 +320,7 @@ const currencies = [
 {
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
-    buy: 0.421,
+    buy: 0.422,
     sell: 0.458
 },
 {
