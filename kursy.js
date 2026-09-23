@@ -2,25 +2,25 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.303, 
-        sell: 4.379
+        buy: 4.304, 
+        sell: 4.378
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.316,
-        sell: 4.374
+        buy: 4.315,
+        sell: 4.373
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.746,
-        sell: 3.816
+        buy: 3.755,
+        sell: 3.819
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.703,
+        buy: 3.706,
         sell: 3.79
     },
     {
@@ -32,13 +32,13 @@ const currencies = [
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.565,
-        sell: 4.641
+        buy: 4.575,
+        sell: 4.649
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.644, 
+        buy: 2.645, 
         sell: 2.729
     },
     {
@@ -87,13 +87,13 @@ const currencies = [
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
     buy: 0.966, 
-    sell: 1.037
+    sell: 1.038
 },
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0463,
-    sell: 0.0502
+    sell: 0.0503
 },
 {
     code: "AMD Dram armeński",
@@ -116,8 +116,8 @@ const currencies = [
 {
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
-    buy: 2.271,
-    sell: 2.437
+    buy: 2.262,
+    sell: 2.435
 },
 {
     code: "BDT Taka Bangladesz ",
@@ -218,8 +218,8 @@ const currencies = [
 {
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
-    buy: 1.432,
-    sell: 1.547
+    buy: 1.434,
+    sell: 1.55
 },
 {
     code: "GTQ Quetzal gwatemalski",
@@ -248,14 +248,14 @@ const currencies = [
 {
     code: "INR Rupia indyjska",
     flag: "🇮🇳",
-    buy: 0.0381,
+    buy: 0.0382,
     sell: 0.0442
 },
 {
     code: "ISK Korona islandzka",
     flag: "🇮🇸",
     buy: 0.0242,
-    sell: 0.0293
+    sell: 0.0292
 },
 {
     code: "IQD Dinar iracki",
@@ -266,8 +266,8 @@ const currencies = [
 {
     code: "JOD Dinar jordański",
     flag: "🇯🇴",
-    buy: 4.5,
-    sell: 5.44
+    buy: 4.51,
+    sell: 5.42
 },
 {
     code: "JMD Dolar jamajski",
