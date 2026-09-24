@@ -93,7 +93,7 @@ const currencies = [
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
     buy: 0.966, 
-    sell: 1.038
+    sell: 1.046
 },
 {
     code: "ALL Lek albański",
