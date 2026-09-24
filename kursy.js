@@ -261,7 +261,7 @@ const currencies = [
     code: "ISK Korona islandzka",
     flag: "🇮🇸",
     buy: 0.0242,
-    sell: 0.0292
+    sell: 0.0296
 },
 {
     code: "IQD Dinar iracki",
