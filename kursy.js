@@ -9,19 +9,19 @@ const currencies = [
         code: "EUR >10k EURO",
         flag: "🇪🇺",
         buy: 4.335,
-        sell: 4.396
+        sell: 4.395
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.785,
+        buy: 3.786,
         sell: 3.857
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.733,
-        sell: 3.838
+        buy: 3.742,
+        sell: 3.841
     },
 {
         code: "USD 1$,2$ ",
@@ -56,8 +56,8 @@ const currencies = [
     {
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
-        buy: 0.1762,
-        sell: 0.1811
+        buy: 0.1763,
+        sell: 0.1807
     },
     {
         code: "DKK Korona duńska",
@@ -332,14 +332,14 @@ const currencies = [
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.216,
-    sell: 0.263
+    buy: 0.217,
+    sell: 0.262
 },
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
-    buy: 0.0743,
-    sell: 0.0798
+    buy: 0.0744,
+    sell: 0.0806
 },
 {
     code: "MMK Kiat birmański ",
