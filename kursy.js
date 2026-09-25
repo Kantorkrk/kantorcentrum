@@ -2,26 +2,26 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.32, 
-        sell: 4.398
+        buy: 4.324, 
+        sell: 4.396
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.335,
-        sell: 4.395
+        buy: 4.334,
+        sell: 4.388
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.786,
-        sell: 3.857
+        buy: 3.783,
+        sell: 3.855
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.742,
-        sell: 3.841
+        buy: 3.743,
+        sell: 3.839
     },
 {
         code: "USD 1$,2$ ",
@@ -32,26 +32,26 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.035,
-        sell: 5.11
+        buy: 5.015,
+        sell: 5.095
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.602,
-        sell: 4.671
+        buy: 4.582,
+        sell: 4.655
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.656, 
-        sell: 2.735
+        buy: 2.65, 
+        sell: 2.734
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.666,
-        sell: 2.748
+        sell: 2.745
     },
     {
         code: "CZK Korona czeska ",
@@ -183,7 +183,7 @@ const currencies = [
     code: "CLP Peso chilijskie",
     flag: "🇨🇱",
     buy: 0.00382,
-    sell: 0.0045
+    sell: 0.00446
 },
 {
     code: "COP Peso kolumbijskie",
@@ -488,8 +488,8 @@ const currencies = [
 {
     code: "TRY",
     flag: "🇹🇷",
-    buy: 0.0792,
-    sell: 0.0885
+    buy: 0.0793,
+    sell: 0.0879
 },
 {
     code: "TTD",
@@ -513,7 +513,7 @@ const currencies = [
     code: "VND",
     flag: "🇻🇳",
     buy: 0.000142,
-    sell: 0.000169
+    sell: 0.000172
 },
 {
     code: "UAH",
