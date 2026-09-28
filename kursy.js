@@ -2,26 +2,26 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.32, 
-        sell: 4.395
+        buy: 4.325, 
+        sell: 4.396
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.33,
-        sell: 4.388
+        buy: 4.334,
+        sell: 4.387
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.78,
-        sell: 3.85
+        buy: 3.79,
+        sell: 3.855
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.744,
-        sell: 3.839
+        buy: 3.745,
+        sell: 3.838
     },
 {
         code: "USD 1$,2$ ",
@@ -32,26 +32,26 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.01,
-        sell: 5.095
+        buy: 5.03,
+        sell: 5.104
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
         buy: 4.58,
-        sell: 4.647
+        sell: 4.653
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.64, 
-        sell: 2.725
+        buy: 2.65, 
+        sell: 2.728
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.665,
-        sell: 2.745
+        sell: 2.744
     },
     {
         code: "CZK Korona czeska ",
@@ -62,13 +62,13 @@ const currencies = [
     {
         code: "DKK Korona duńska",
         flag: "🇩🇰",
-        buy: 0.53,
-        sell: 0.573
+        buy: 0.532,
+        sell: 0.572
     },
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
-        buy: 0.327,
+        buy: 0.331,
         sell: 0.351
     },
     {
@@ -446,14 +446,14 @@ const currencies = [
 {
     code: "QAR Rial katarski ",
     flag: "🇶🇦",
-    buy: 0.911,
-    sell: 1.058
+    buy: 0.932,
+    sell: 1.065
 },
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.88,
-    sell: 0.996
+    buy: 0.92,
+    sell: 1.02
 },
     {
     code: "SCR Rupia seszelska ",
@@ -464,8 +464,8 @@ const currencies = [
     {
     code: "SGD",
     flag: "🇸🇬",
-    buy: 2.741,
-    sell: 2.98
+    buy: 2.751,
+    sell: 2.995
 },
 {
     code: "THB",
