@@ -273,7 +273,7 @@ const currencies = [
     code: "JOD Dinar jordański",
     flag: "🇯🇴",
     buy: 4.51,
-    sell: 5.42
+    sell: 5.4
 },
 {
     code: "JMD Dolar jamajski",
@@ -297,7 +297,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00258,
-    sell: 0.00298
+    sell: 0.00303
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -326,20 +326,20 @@ const currencies = [
 {
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
-    buy: 0.422,
-    sell: 0.458
+    buy: 0.423,
+    sell: 0.46
 },
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.217,
-    sell: 0.262
+    buy: 0.218,
+    sell: 0.263
 },
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
     buy: 0.0744,
-    sell: 0.0806
+    sell: 0.0804
 },
 {
     code: "MMK Kiat birmański ",
