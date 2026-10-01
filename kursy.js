@@ -422,8 +422,8 @@ const currencies = [
 {
     code: "PYG Guarani paragwajskie ",
     flag: "🇵🇾",
-    buy: 0.00036,
-    sell: 0.00068
+    buy: 0.00041,
+    sell: 0.00074
 },
 {
     code: "RON Lej rumuński",
