@@ -236,8 +236,8 @@ const currencies = [
 {
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
-    buy: 0.443,
-    sell: 0.504
+    buy: 0.454,
+    sell: 0.507
 },
 {
     code: "IDR Rupia indonezyjska",
