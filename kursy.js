@@ -14,14 +14,14 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.84,
-        sell: 3.907
+        buy: 3.83,
+        sell: 3.908
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.77,
-        sell: 3.888
+        buy: 3.775,
+        sell: 3.887
     },
 {
         code: "USD 1$,2$ ",
@@ -33,13 +33,13 @@ const currencies = [
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 5.085,
-        sell: 5.146
+        sell: 5.157
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.64,
-        sell: 4.696
+        buy: 4.65,
+        sell: 4.699
     },
     {
         code: "AUD Dolar australijski ",
@@ -69,7 +69,7 @@ const currencies = [
         code: "NOK Korona norweska",
         flag: "🇳🇴",
         buy: 0.332,
-        sell: 0.3514
+        sell: 0.353
     },
     {
         code: "SEK Korona szwedzka ",
@@ -434,8 +434,8 @@ const currencies = [
 {
     code: "RUB Rubel rosyjski",
     flag: "🇷🇺",
-    buy: 0.0412,
-    sell: 0.0485
+    buy: 0.0415,
+    sell: 0.0484
 },
 {
     code: "RSD Dinar serbski ",
@@ -446,14 +446,14 @@ const currencies = [
 {
     code: "QAR Rial katarski ",
     flag: "🇶🇦",
-    buy: 0.932,
-    sell: 1.065
+    buy: 0.94,
+    sell: 1.066
 },
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.92,
-    sell: 1.02
+    buy: 0.94,
+    sell: 1.03
 },
     {
     code: "SCR Rupia seszelska ",
@@ -464,14 +464,14 @@ const currencies = [
     {
     code: "SGD",
     flag: "🇸🇬",
-    buy: 2.751,
-    sell: 2.995
+    buy: 2.80,
+    sell: 3.03
 },
 {
     code: "THB",
     flag: "🇹🇭",
-    buy: 0.1124,
-    sell: 0.1209
+    buy: 0.1125,
+    sell: 0.1217
 },
 {
     code: "TJS",
