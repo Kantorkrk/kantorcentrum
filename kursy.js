@@ -44,14 +44,14 @@ const currencies = [
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.64, 
-        sell: 2.719
+        buy: 2.655, 
+        sell: 2.733
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.676,
-        sell: 2.746
+        buy: 2.69,
+        sell: 2.748
     },
     {
         code: "CZK Korona czeska ",
