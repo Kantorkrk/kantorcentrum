@@ -2,26 +2,26 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.335, 
-        sell: 4.398
+        buy: 4.326, 
+        sell: 4.397
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.34,
+        buy: 4.333,
         sell: 4.39
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.845,
-        sell: 3.921
+        buy: 3.856,
+        sell: 3.92
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.805,
-        sell: 3.895
+        buy: 3.825,
+        sell: 3.897
     },
 {
         code: "USD 1$,2$ ",
@@ -32,8 +32,8 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.11,
-        sell: 5.177
+        buy: 5.10,
+        sell: 5.166
     },
     {
         code: "CHF Frank szwajcarski",
@@ -50,8 +50,8 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.69,
-        sell: 2.748
+        buy: 2.68,
+        sell: 2.749
     },
     {
         code: "CZK Korona czeska ",
@@ -99,7 +99,7 @@ const currencies = [
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0463,
-    sell: 0.0503
+    sell: 0.0502
 },
 {
     code: "AMD Dram armeński",
@@ -152,8 +152,8 @@ const currencies = [
     {
     code: "BRL Real brazylijski",
     flag: "🇧🇷",
-    buy: 0.736,
-    sell: 0.839
+    buy: 0.754,
+    sell: 0.866
 },
 {
     code: "BBD",
@@ -404,8 +404,8 @@ const currencies = [
 {
     code: "OMR Rial omański",
     flag: "🇴🇲",
-    buy: 8.83,
-    sell: 9.91
+    buy: 9.11,
+    sell: 10.15
 },
 {
     code: "PEN Sol peruwiański ",
@@ -428,26 +428,26 @@ const currencies = [
 {
     code: "RON Lej rumuński",
     flag: "🇷🇴",
-    buy: 0.814,
-    sell: 0.884
+    buy: 0.813,
+    sell: 0.879
 },
 {
     code: "RUB Rubel rosyjski",
     flag: "🇷🇺",
-    buy: 0.0415,
-    sell: 0.0484
+    buy: 0.0413,
+    sell: 0.0477
 },
 {
     code: "RSD Dinar serbski ",
     flag: "🇷🇸",
     buy: 0.0366,
-    sell: 0.0415
+    sell: 0.0412
 },
 {
     code: "QAR Rial katarski ",
     flag: "🇶🇦",
     buy: 0.94,
-    sell: 1.066
+    sell: 1.065
 },
 {
     code: "SAR Rial saudyjski",
@@ -518,8 +518,8 @@ const currencies = [
 {
     code: "UAH",
     flag: "🇺🇦",
-    buy: 0.0791,
-    sell: 0.0843
+    buy: 0.0795,
+    sell: 0.0855
 },
 {
     code: "UYU",
