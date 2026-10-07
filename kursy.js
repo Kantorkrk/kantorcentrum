@@ -177,7 +177,7 @@ const currencies = [
     code: "CNY Juan chiński",
     flag: "🇨🇳",
     buy: 0.526,
-    sell: 0.589
+    sell: 0.596
 },
 {
     code: "CLP Peso chilijskie",
