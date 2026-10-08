@@ -404,14 +404,14 @@ const currencies = [
 {
     code: "OMR Rial omański",
     flag: "🇴🇲",
-    buy: 9.11,
-    sell: 10.15
+    buy: 9.20,
+    sell: 10.14
 },
 {
     code: "PEN Sol peruwiański ",
     flag: "🇵🇪",
     buy: 1.046,
-    sell: 1.279
+    sell: 1.286
 },
 {
     code: "PHP Peso filipińskie",
@@ -453,7 +453,7 @@ const currencies = [
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
     buy: 0.94,
-    sell: 1.03
+    sell: 1.045
 },
     {
     code: "SCR Rupia seszelska ",
@@ -464,13 +464,13 @@ const currencies = [
     {
     code: "SGD",
     flag: "🇸🇬",
-    buy: 2.80,
-    sell: 3.03
+    buy: 2.81,
+    sell: 3.05
 },
 {
     code: "THB",
     flag: "🇹🇭",
-    buy: 0.1125,
+    buy: 0.1133,
     sell: 0.1217
 },
 {
@@ -513,12 +513,12 @@ const currencies = [
     code: "VND",
     flag: "🇻🇳",
     buy: 0.000142,
-    sell: 0.000172
+    sell: 0.000176
 },
 {
     code: "UAH",
     flag: "🇺🇦",
-    buy: 0.0795,
+    buy: 0.0802,
     sell: 0.0855
 },
 {
