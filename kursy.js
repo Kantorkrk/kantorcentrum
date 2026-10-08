@@ -507,7 +507,7 @@ const currencies = [
     code: "TZS",
     flag: "🇹🇿",
     buy: 0.00138,
-    sell: 0.00199
+    sell: 0.00214
 },
 {
     code: "VND",
@@ -530,7 +530,7 @@ const currencies = [
 {
     code: "UZS",
     flag: "🇺🇿",
-    buy: 0.000262,
+    buy: 0.000266,
     sell: 0.000498
 },
 {
