@@ -2,26 +2,26 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.326, 
-        sell: 4.398
+        buy: 4.33, 
+        sell: 4.397
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.34,
+        buy: 4.345,
         sell: 4.392
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.855,
-        sell: 3.917
+        buy: 3.866,
+        sell: 3.926
     },
      {
         code: "USD old",
         flag: "🇺🇸",
         buy: 3.825,
-        sell: 3.897
+        sell: 3.902
     },
 {
         code: "USD 1$,2$ ",
@@ -32,14 +32,14 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.10,
-        sell: 5.168
+        buy: 5.11,
+        sell: 5.178
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
         buy: 4.645,
-        sell: 4.725
+        sell: 4.727
     },
     {
         code: "AUD Dolar australijski ",
@@ -104,20 +104,20 @@ const currencies = [
 {
     code: "AMD Dram armeński",
     flag: "🇦🇲",
-    buy: 0.0083,
-    sell: 0.0124
+    buy: 0.0085,
+    sell: 0.01247
 },
 {
     code: "ARS Peso argentyńskie",
     flag: "🇦🇷",
-    buy: 0.00215,
+    buy: 0.00214,
     sell: 0.00474
 },
 {
     code: "AZN Manat azerski ",
     flag: "🇦🇿",
-    buy: 2.12,
-    sell: 2.435
+    buy: 2.13,
+    sell: 2.434
 },
 {
     code: "BAM Marka Bośnia",
@@ -128,7 +128,7 @@ const currencies = [
 {
     code: "BDT Taka Bangladesz ",
     flag: "🇧🇩",
-    buy: 0.0172,
+    buy: 0.0174,
     sell: 0.034
 },
 {
@@ -140,8 +140,8 @@ const currencies = [
 {
     code: "BOB Boliviano ",
     flag: "🇧🇴",
-    buy: 0.146,
-    sell: 0.59
+    buy: 0.147,
+    sell: 0.56
 },
 {
     code: "BYN Rubel białoruski",
@@ -152,7 +152,7 @@ const currencies = [
     {
     code: "BRL Real brazylijski",
     flag: "🇧🇷",
-    buy: 0.754,
+    buy: 0.762,
     sell: 0.869
 },
 {
@@ -176,8 +176,8 @@ const currencies = [
 {
     code: "CNY Juan chiński",
     flag: "🇨🇳",
-    buy: 0.526,
-    sell: 0.596
+    buy: 0.533,
+    sell: 0.597
 },
 {
     code: "CLP Peso chilijskie",
@@ -188,13 +188,13 @@ const currencies = [
 {
     code: "COP Peso kolumbijskie",
     flag: "🇨🇴",
-    buy: 0.0083,
+    buy: 0.0086,
     sell: 0.0129
 },
 {
     code: "CRC Colon kostarykański",
     flag: "🇨🇷",
-    buy: 0.00683,
+    buy: 0.00685,
     sell: 0.0107
 },
 {
@@ -206,7 +206,7 @@ const currencies = [
 {
     code: "EGP Funt egipski",
     flag: "🇪🇬",
-    buy: 0.072,
+    buy: 0.073,
     sell: 0.097
 },
     {
@@ -225,7 +225,7 @@ const currencies = [
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
     buy: 1.445,
-    sell: 1.55
+    sell: 1.558
 },
 {
     code: "GTQ Quetzal gwatemalski",
@@ -237,12 +237,12 @@ const currencies = [
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
     buy: 0.454,
-    sell: 0.507
+    sell: 0.509
 },
 {
     code: "IDR Rupia indonezyjska",
     flag: "🇮🇩",
-    buy: 0.000212,
+    buy: 0.000214,
     sell: 0.000272
 },
 {
@@ -290,13 +290,13 @@ const currencies = [
     {
     code: "KGS Som kirgiski",
     flag: "🇰🇬",
-    buy: 0.0374,
-    sell: 0.0545
+    buy: 0.0386,
+    sell: 0.0554
 },
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.00272,
+    buy: 0.00274,
     sell: 0.00306
 },
 {
@@ -326,26 +326,26 @@ const currencies = [
 {
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
-    buy: 0.433,
-    sell: 0.472
+    buy: 0.416,
+    sell: 0.466
 },
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
     buy: 0.218,
-    sell: 0.263
+    sell: 0.262
 },
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
     buy: 0.0744,
-    sell: 0.0802
+    sell: 0.0799
 },
 {
     code: "MMK Kiat birmański ",
     flag: "🇲🇲",
-    buy: 0.0011,
-    sell: 0.0028
+    buy: 0.00106,
+    sell: 0.00277
 },
 {
     code: "MNT Tugrik mongolski ",
@@ -380,8 +380,8 @@ const currencies = [
 {
     code: "MYR Ringgit malezyjski ",
     flag: "🇲🇾",
-    buy: 0.895,
-    sell: 0.998
+    buy: 0.91,
+    sell: 1.02
 },
     {
     code: "NAD Dolar namibijski ",
