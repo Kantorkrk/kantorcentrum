@@ -471,7 +471,7 @@ const currencies = [
     code: "THB",
     flag: "🇹🇭",
     buy: 0.1144,
-    sell: 0.1222
+    sell: 0.1225
 },
 {
     code: "TJS",
