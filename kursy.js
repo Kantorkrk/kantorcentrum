@@ -273,8 +273,8 @@ const currencies = [
 {
     code: "IQD Dinar iracki",
     flag: "🇮🇶",
-    buy: 0.00232,
-    sell: 0.00329
+    buy: 0.00203,
+    sell: 0.00326
 },
 {
     code: "JOD Dinar jordański",
