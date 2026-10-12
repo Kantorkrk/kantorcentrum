@@ -99,31 +99,31 @@ const currencies = [
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0463,
-    sell: 0.0502
+    sell: 0.0498
 },
 {
     code: "AMD Dram armeński",
     flag: "🇦🇲",
-    buy: 0.0085,
+    buy: 0.0086,
     sell: 0.01247
 },
 {
     code: "ARS Peso argentyńskie",
     flag: "🇦🇷",
     buy: 0.00214,
-    sell: 0.00474
+    sell: 0.0047
 },
 {
     code: "AZN Manat azerski ",
     flag: "🇦🇿",
     buy: 2.13,
-    sell: 2.434
+    sell: 2.439
 },
 {
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
-    buy: 2.262,
-    sell: 2.435
+    buy: 2.27,
+    sell: 2.424
 },
 {
     code: "BDT Taka Bangladesz ",
