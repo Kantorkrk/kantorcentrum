@@ -381,8 +381,8 @@ const currencies = [
 {
     code: "MXN Peso meksykańskie",
     flag: "🇲🇽",
-    buy: 0.208,
-    sell: 0.238
+    buy: 0.21,
+    sell: 0.239
 },
 {
     code: "MYR Ringgit malezyjski ",
@@ -447,38 +447,38 @@ const currencies = [
 {
     code: "RSD Dinar serbski ",
     flag: "🇷🇸",
-    buy: 0.0366,
-    sell: 0.0412
+    buy: 0.0367,
+    sell: 0.0407
 },
 {
     code: "QAR Rial katarski ",
     flag: "🇶🇦",
     buy: 0.94,
-    sell: 1.065
+    sell: 1.067
 },
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.94,
-    sell: 1.049
+    buy: 0.945,
+    sell: 1.055
 },
     {
     code: "SCR Rupia seszelska ",
     flag: "🇸🇨",
-    buy: 0.254,
+    buy: 0.26,
     sell: 0.367
 },
     {
     code: "SGD",
     flag: "🇸🇬",
     buy: 2.81,
-    sell: 3.05
+    sell: 3.055
 },
 {
     code: "THB",
     flag: "🇹🇭",
     buy: 0.1144,
-    sell: 0.1225
+    sell: 0.1224
 },
 {
     code: "TJS",
@@ -496,7 +496,7 @@ const currencies = [
     code: "TRY",
     flag: "🇹🇷",
     buy: 0.0793,
-    sell: 0.0879
+    sell: 0.0878
 },
 {
     code: "TTD",
@@ -519,7 +519,7 @@ const currencies = [
 {
     code: "VND",
     flag: "🇻🇳",
-    buy: 0.000142,
+    buy: 0.000143,
     sell: 0.000176
 },
 {
@@ -537,13 +537,13 @@ const currencies = [
 {
     code: "UZS",
     flag: "🇺🇿",
-    buy: 0.000266,
-    sell: 0.000498
+    buy: 0.000267,
+    sell: 0.000497
 },
 {
     code: "ZAR",
     flag: "🇿🇦",
-    buy: 0.233,
-    sell: 0.269
+    buy: 0.234,
+    sell: 0.27
 },
 ];
