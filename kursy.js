@@ -197,6 +197,13 @@ const currencies = [
     buy: 0.00685,
     sell: 0.0107
 },
+
+{
+    code: "CVE Escudo Cabo Verde",
+    flag: "🇲🇭",
+    buy: 0.033,
+    sell: 0.0496
+},
 {
     code: "DOP Peso dominikańskie",
     flag: "🇩🇴",
@@ -326,8 +333,8 @@ const currencies = [
 {
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
-    buy: 0.416,
-    sell: 0.466
+    buy: 0.417,
+    sell: 0.465
 },
 {
     code: "MDL Lej mołdawski",
@@ -494,14 +501,14 @@ const currencies = [
 {
     code: "TTD",
     flag: "🇹🇹",
-    buy: 0.19,
-    sell: 0.377
+    buy: 0.22,
+    sell: 0.595
 },
 {
     code: "TWD",
     flag: "🇹🇼",
-    buy: 0.10,
-    sell: 0.15
+    buy: 0.103,
+    sell: 0.149
 },
 {
     code: "TZS",
@@ -518,8 +525,8 @@ const currencies = [
 {
     code: "UAH",
     flag: "🇺🇦",
-    buy: 0.0802,
-    sell: 0.0855
+    buy: 0.0804,
+    sell: 0.0856
 },
 {
     code: "UYU",
@@ -537,6 +544,6 @@ const currencies = [
     code: "ZAR",
     flag: "🇿🇦",
     buy: 0.233,
-    sell: 0.265
+    sell: 0.269
 },
 ];
