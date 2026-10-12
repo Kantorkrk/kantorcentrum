@@ -316,37 +316,37 @@ const currencies = [
     code: "KWD Dinar kuwejcki",
     flag: "🇰🇼",
     buy: 10.30,
-    sell: 12.35
+    sell: 12.39
 },
 {
     code: "LAK Kip laotański ",
     flag: "🇱🇦",
     buy: 0.00012,
-    sell: 0.00026
+    sell: 0.000261
 },
 {
     code: "LKR Rupia lankijska ",
     flag: "🇱🇰",
-    buy: 0.0101,
-    sell: 0.0156
+    buy: 0.0102,
+    sell: 0.0153
 },
 {
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
-    buy: 0.417,
+    buy: 0.418,
     sell: 0.465
 },
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.218,
+    buy: 0.217,
     sell: 0.262
 },
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
-    buy: 0.0744,
-    sell: 0.0799
+    buy: 0.0742,
+    sell: 0.0795
 },
 {
     code: "MMK Kiat birmański ",
@@ -405,8 +405,8 @@ const currencies = [
 {
     code: "NZD Dolar nowozelandzki",
     flag: "🇳🇿",
-    buy: 2.155,
-    sell: 2.34
+    buy: 2.164,
+    sell: 2.33
 },
 {
     code: "OMR Rial omański",
