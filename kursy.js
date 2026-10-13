@@ -303,8 +303,8 @@ const currencies = [
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.00276,
-    sell: 0.00307
+    buy: 0.00277,
+    sell: 0.00306
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -334,7 +334,7 @@ const currencies = [
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
     buy: 0.418,
-    sell: 0.465
+    sell: 0.45
 },
 {
     code: "MDL Lej mołdawski",
@@ -369,20 +369,20 @@ const currencies = [
 {
     code: "MUR Rupia maurytyjska",
     flag: "🇲🇺",
-    buy: 0.073,
-    sell: 0.113
+    buy: 0.075,
+    sell: 0.112
 },
 {
     code: "MVR Rupia malediwska",
     flag: "🇲🇻",
-    buy: 0.191,
-    sell: 0.344
+    buy: 0.19,
+    sell: 0.334
 },
 {
     code: "MXN Peso meksykańskie",
     flag: "🇲🇽",
     buy: 0.21,
-    sell: 0.239
+    sell: 0.238
 },
 {
     code: "MYR Ringgit malezyjski ",
