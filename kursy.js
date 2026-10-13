@@ -261,8 +261,8 @@ const currencies = [
 {
     code: "INR Rupia indyjska",
     flag: "🇮🇳",
-    buy: 0.0383,
-    sell: 0.0436
+    buy: 0.0388,
+    sell: 0.0433
 },
 {
     code: "ISK Korona islandzka",
@@ -279,8 +279,8 @@ const currencies = [
 {
     code: "JOD Dinar jordański",
     flag: "🇯🇴",
-    buy: 4.61,
-    sell: 5.45
+    buy: 4.75,
+    sell: 5.48
 },
 {
     code: "JMD Dolar jamajski",
@@ -315,7 +315,7 @@ const currencies = [
 {
     code: "KWD Dinar kuwejcki",
     flag: "🇰🇼",
-    buy: 10.30,
+    buy: 10.35,
     sell: 12.39
 },
 {
@@ -424,7 +424,7 @@ const currencies = [
     code: "PHP Peso filipińskie",
     flag: "🇵🇭",
     buy: 0.0575,
-    sell: 0.0744
+    sell: 0.0743
 },
 {
     code: "PYG Guarani paragwajskie ",
