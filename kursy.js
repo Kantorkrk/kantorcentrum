@@ -262,7 +262,7 @@ const currencies = [
     code: "INR Rupia indyjska",
     flag: "🇮🇳",
     buy: 0.0388,
-    sell: 0.0433
+    sell: 0.0432
 },
 {
     code: "ISK Korona islandzka",
@@ -279,7 +279,7 @@ const currencies = [
 {
     code: "JOD Dinar jordański",
     flag: "🇯🇴",
-    buy: 4.75,
+    buy: 4.84,
     sell: 5.48
 },
 {
@@ -328,7 +328,7 @@ const currencies = [
     code: "LKR Rupia lankijska ",
     flag: "🇱🇰",
     buy: 0.0102,
-    sell: 0.0153
+    sell: 0.0147
 },
 {
     code: "MAD Dirham marokański",
@@ -339,7 +339,7 @@ const currencies = [
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.217,
+    buy: 0.216,
     sell: 0.259
 },
 {
@@ -387,8 +387,8 @@ const currencies = [
 {
     code: "MYR Ringgit malezyjski ",
     flag: "🇲🇾",
-    buy: 0.91,
-    sell: 1.02
+    buy: 0.93,
+    sell: 1.08
 },
     {
     code: "NAD Dolar namibijski ",
