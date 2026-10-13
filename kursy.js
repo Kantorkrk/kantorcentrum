@@ -3,25 +3,25 @@ const currencies = [
         code: "EUR EURO",
         flag: "🇪🇺",
         buy: 4.33, 
-        sell: 4.404
+        sell: 4.399
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.355,
-        sell: 4.396
+        buy: 4.345,
+        sell: 4.393
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
         buy: 3.865,
-        sell: 3.928
+        sell: 3.92
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.845,
-        sell: 3.91
+        buy: 3.835,
+        sell: 3.909
     },
 {
         code: "USD 1$,2$ ",
@@ -32,8 +32,8 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.126,
-        sell: 5.195
+        buy: 5.115,
+        sell: 5.19
     },
     {
         code: "CHF Frank szwajcarski",
@@ -50,8 +50,8 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.684,
-        sell: 2.747
+        buy: 2.67,
+        sell: 2.748
     },
     {
         code: "CZK Korona czeska ",
