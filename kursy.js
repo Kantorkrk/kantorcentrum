@@ -231,13 +231,13 @@ const currencies = [
 {
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
-    buy: 1.45,
-    sell: 1.558
+    buy: 1.48,
+    sell: 1.563
 },
 {
     code: "GTQ Quetzal gwatemalski",
     flag: "🇬🇹",
-    buy: 0.32,
+    buy: 0.36,
     sell: 0.595
 },
 {
@@ -249,7 +249,7 @@ const currencies = [
 {
     code: "IDR Rupia indonezyjska",
     flag: "🇮🇩",
-    buy: 0.000214,
+    buy: 0.000216,
     sell: 0.000272
 },
 {
