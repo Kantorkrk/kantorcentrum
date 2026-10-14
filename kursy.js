@@ -14,14 +14,14 @@ const currencies = [
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 3.855,
-        sell: 3.917
+        buy: 3.865,
+        sell: 3.93
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.846,
-        sell: 3.905
+        buy: 3.85,
+        sell: 3.908
     },
 {
         code: "USD 1$,2$ ",
@@ -32,14 +32,14 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.106,
+        buy: 5.126,
         sell: 5.186
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.64,
-        sell: 4.718
+        buy: 4.62,
+        sell: 4.71
     },
     {
         code: "AUD Dolar australijski ",
