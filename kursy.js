@@ -68,13 +68,13 @@ const currencies = [
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
-        buy: 0.333,
-        sell: 0.353
+        buy: 0.338,
+        sell: 0.355
     },
     {
         code: "SEK Korona szwedzka ",
         flag: "🇸🇪",
-        buy: 0.336,
+        buy: 0.337,
         sell: 0.364
     },
     {
