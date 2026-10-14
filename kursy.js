@@ -303,14 +303,14 @@ const currencies = [
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.00277,
-    sell: 0.00306
+    buy: 0.00278,
+    sell: 0.00305
 },
 {
     code: "KZT Tenge kazachskie ",
     flag: "🇰🇿",
-    buy: 0.0078,
-    sell: 0.0106
+    buy: 0.00803,
+    sell: 0.0107
 },
 {
     code: "KWD Dinar kuwejcki",
@@ -507,7 +507,7 @@ const currencies = [
 {
     code: "TWD",
     flag: "🇹🇼",
-    buy: 0.103,
+    buy: 0.104,
     sell: 0.149
 },
 {
@@ -519,8 +519,8 @@ const currencies = [
 {
     code: "VND",
     flag: "🇻🇳",
-    buy: 0.000143,
-    sell: 0.000176
+    buy: 0.000144,
+    sell: 0.000177
 },
 {
     code: "UAH",
@@ -531,7 +531,7 @@ const currencies = [
 {
     code: "UYU",
     flag: "🇺🇾",
-    buy: 0.0828,
+    buy: 0.052,
     sell: 0.0109
 },
 {
