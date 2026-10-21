@@ -8,7 +8,7 @@ const currencies = [
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.34,
+        buy: 4.335,
         sell: 4.378
     },
     {
@@ -44,14 +44,14 @@ const currencies = [
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.66, 
-        sell: 2.738
+        buy: 2.662, 
+        sell: 2.739
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.706,
-        sell: 2.777
+        sell: 2.776
     },
     {
         code: "CZK Korona czeska ",
