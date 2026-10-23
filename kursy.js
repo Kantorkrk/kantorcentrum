@@ -98,7 +98,7 @@ const currencies = [
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
-    buy: 0.0463,
+    buy: 0.0471,
     sell: 0.0497
 },
 {
