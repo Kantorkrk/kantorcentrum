@@ -465,7 +465,7 @@ const currencies = [
     {
     code: "SCR Rupia seszelska ",
     flag: "🇸🇨",
-    buy: 0.26,
+    buy: 0.27,
     sell: 0.365
 },
     {
@@ -507,7 +507,7 @@ const currencies = [
 {
     code: "TWD",
     flag: "🇹🇼",
-    buy: 0.111,
+    buy: 0.112,
     sell: 0.148
 },
 {
