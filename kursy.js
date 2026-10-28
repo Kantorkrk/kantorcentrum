@@ -3,13 +3,13 @@ const currencies = [
         code: "EUR EURO",
         flag: "🇪🇺",
         buy: 4.36, 
-        sell: 4.424
+        sell: 4.425
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
         buy: 4.375,
-        sell: 4.417
+        sell: 4.418
     },
     {
         code: "USD Dolar od 2009",
@@ -32,26 +32,26 @@ const currencies = [
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
-        buy: 5.193,
-        sell: 5.266
+        buy: 5.195,
+        sell: 5.267
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
         buy: 4.71,
-        sell: 4.781
+        sell: 4.783
     },
     {
         code: "AUD Dolar australijski ",
         flag: "🇦🇺",
-        buy: 2.707, 
-        sell: 2.79
+        buy: 2.725, 
+        sell: 2.8
     },
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.76,
-        sell: 2.825
+        sell: 2.838
     },
     {
         code: "CZK Korona czeska ",
@@ -188,8 +188,8 @@ const currencies = [
 {
     code: "COP Peso kolumbijskie",
     flag: "🇨🇴",
-    buy: 0.0089,
-    sell: 0.0132
+    buy: 0.0095,
+    sell: 0.0136
 },
 {
     code: "CRC Colon kostarykański",
@@ -225,14 +225,14 @@ const currencies = [
 {
     code: "FJD dolar Fidżi",
     flag: "🇫🇯",
-    buy: 1.52,
-    sell: 1.825
+    buy: 1.6,
+    sell: 1.87
 },
 {
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
     buy: 1.484,
-    sell: 1.575
+    sell: 1.574
 },
 {
     code: "GTQ Quetzal gwatemalski",
@@ -303,8 +303,8 @@ const currencies = [
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.00278,
-    sell: 0.00307
+    buy: 0.00282,
+    sell: 0.00309
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -334,13 +334,13 @@ const currencies = [
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
     buy: 0.418,
-    sell: 0.45
+    sell: 0.453
 },
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
     buy: 0.216,
-    sell: 0.259
+    sell: 0.258
 },
 {
     code: "MKD Denar macedoński",
@@ -531,8 +531,8 @@ const currencies = [
 {
     code: "UYU",
     flag: "🇺🇾",
-    buy: 0.057,
-    sell: 0.0109
+    buy: 0.072,
+    sell: 0.0112
 },
 {
     code: "UZS",
@@ -543,7 +543,7 @@ const currencies = [
 {
     code: "ZAR",
     flag: "🇿🇦",
-    buy: 0.232,
+    buy: 0.227,
     sell: 0.273
 },
 ];
