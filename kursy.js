@@ -465,20 +465,20 @@ const currencies = [
     {
     code: "SCR Rupia seszelska ",
     flag: "🇸🇨",
-    buy: 0.27,
-    sell: 0.365
+    buy: 0.271,
+    sell: 0.369
 },
     {
     code: "SGD",
     flag: "🇸🇬",
-    buy: 2.83,
-    sell: 3.09
+    buy: 2.84,
+    sell: 3.085
 },
 {
     code: "THB",
     flag: "🇹🇭",
     buy: 0.1144,
-    sell: 0.1224
+    sell: 0.123
 },
 {
     code: "TJS",
