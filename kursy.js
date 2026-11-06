@@ -99,7 +99,7 @@ const currencies = [
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0471,
-    sell: 0.0499
+    sell: 0.0498
 },
 {
     code: "AMD Dram armeński",
@@ -123,7 +123,7 @@ const currencies = [
     code: "BAM Marka Bośnia",
     flag: "🇧🇦",
     buy: 2.261,
-    sell: 2.416
+    sell: 2.417
 },
 {
     code: "BDT Taka Bangladesz ",
@@ -232,7 +232,7 @@ const currencies = [
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
     buy: 1.484,
-    sell: 1.574
+    sell: 1.575
 },
 {
     code: "GTQ Quetzal gwatemalski",
@@ -244,7 +244,7 @@ const currencies = [
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
     buy: 0.462, 
-    sell: 0.513
+    sell: 0.519
 },
 {
     code: "IDR Rupia indonezyjska",
@@ -267,7 +267,7 @@ const currencies = [
 {
     code: "ISK Korona islandzka",
     flag: "🇮🇸",
-    buy: 0.0236,
+    buy: 0.0237,
     sell: 0.0298
 },
 {
@@ -304,7 +304,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00282,
-    sell: 0.00309
+    sell: 0.00308
 },
 {
     code: "KZT Tenge kazachskie ",
