@@ -62,20 +62,20 @@ const currencies = [
     {
         code: "DKK Korona duńska",
         flag: "🇩🇰",
-        buy: 0.533,
-        sell: 0.573
+        buy: 0.535,
+        sell: 0.575
     },
     {
         code: "NOK Korona norweska",
         flag: "🇳🇴",
-        buy: 0.351,
+        buy: 0.352,
         sell: 0.369
     },
     {
         code: "SEK Korona szwedzka ",
         flag: "🇸🇪",
-        buy: 0.343,
-        sell: 0.369
+        buy: 0.346,
+        sell: 0.371
     },
     {
         code: "HUF Forint Węgry",
