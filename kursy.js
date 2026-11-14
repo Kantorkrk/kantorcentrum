@@ -176,8 +176,8 @@ const currencies = [
 {
     code: "CNY Juan chiński",
     flag: "🇨🇳",
-    buy: 0.536,
-    sell: 0.602
+    buy: 0.544,
+    sell: 0.614
 },
 {
     code: "CLP Peso chilijskie",
@@ -189,7 +189,7 @@ const currencies = [
     code: "COP Peso kolumbijskie",
     flag: "🇨🇴",
     buy: 0.0095,
-    sell: 0.0136
+    sell: 0.0137
 },
 {
     code: "CRC Colon kostarykański",
@@ -214,7 +214,7 @@ const currencies = [
     code: "EGP Funt egipski",
     flag: "🇪🇬",
     buy: 0.073,
-    sell: 0.0965
+    sell: 0.0956
 },
     {
     code: "ETB Bir etiopski ",
@@ -243,8 +243,8 @@ const currencies = [
 {
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
-    buy: 0.462, 
-    sell: 0.519
+    buy: 0.466, 
+    sell: 0.524
 },
 {
     code: "IDR Rupia indonezyjska",
@@ -261,8 +261,8 @@ const currencies = [
 {
     code: "INR Rupia indyjska",
     flag: "🇮🇳",
-    buy: 0.0388,
-    sell: 0.0433
+    buy: 0.04,
+    sell: 0.0448
 },
 {
     code: "ISK Korona islandzka",
@@ -303,7 +303,7 @@ const currencies = [
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.00282,
+    buy: 0.00283,
     sell: 0.00308
 },
 {
@@ -459,8 +459,8 @@ const currencies = [
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.955,
-    sell: 1.058
+    buy: 0.957,
+    sell: 1.064
 },
     {
     code: "SCR Rupia seszelska ",
@@ -477,8 +477,8 @@ const currencies = [
 {
     code: "THB",
     flag: "🇹🇭",
-    buy: 0.1144,
-    sell: 0.123
+    buy: 0.116,
+    sell: 0.1248
 },
 {
     code: "TJS",
