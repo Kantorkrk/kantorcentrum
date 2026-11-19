@@ -3,37 +3,37 @@ const currencies = [
         code: "EUR EURO",
         flag: "🇪🇺",
         buy: 4.36, 
-        sell: 4.415
+        sell: 4.443
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.366,
-        sell: 4.409
+        buy: 4.40,
+        sell: 4.44
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
         buy: 3.95,
-        sell: 4.014
+        sell: 4.044
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.936,
-        sell: 3.997
+        buy: 3.93,
+        sell: 4.03
     },
 {
         code: "USD 1$,2$ ",
         flag: "🇺🇸",
         buy: 4.00,
-        sell: 4.14
+        sell: 4.22
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 5.216,
-        sell: 5.279
+        sell: 5.288
     },
     {
         code: "CHF Frank szwajcarski",
@@ -51,13 +51,13 @@ const currencies = [
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
         buy: 2.735,
-        sell: 2.821
+        sell: 2.827
     },
     {
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.1767,
-        sell: 0.1809
+        sell: 0.1813
     },
     {
         code: "DKK Korona duńska",
@@ -80,20 +80,20 @@ const currencies = [
     {
         code: "HUF Forint Węgry",
         flag: "🇭🇺",
-        buy: 0.01166,
+        buy: 0.01164,
         sell: 0.01223
     },
     {
         code: "JPY Jen japoński",
         flag: "🇯🇵",
         buy: 0.0252,
-        sell: 0.0265
+        sell: 0.0266
     },
     {
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
     buy: 1.01, 
-    sell: 1.094
+    sell: 1.098
 },
 {
     code: "ALL Lek albański",
