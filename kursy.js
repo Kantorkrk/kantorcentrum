@@ -231,8 +231,8 @@ const currencies = [
 {
     code: "GEL Lari gruzińskie",
     flag: "🇬🇪",
-    buy: 1.484,
-    sell: 1.574
+    buy: 1.505,
+    sell: 1.622
 },
 {
     code: "GTQ Quetzal gwatemalski",
@@ -244,19 +244,19 @@ const currencies = [
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
     buy: 0.466, 
-    sell: 0.524
+    sell: 0.528
 },
 {
     code: "IDR Rupia indonezyjska",
     flag: "🇮🇩",
     buy: 0.000219,
-    sell: 0.000272
+    sell: 0.000273
 },
 {
     code: "ILS Szekel izraelski",
     flag: "🇮🇱",
     buy: 1.112,
-    sell: 1.259
+    sell: 1.255
 },
 {
     code: "INR Rupia indyjska",
@@ -303,8 +303,8 @@ const currencies = [
 {
     code: "KRW Won koreański ",
     flag: "🇰🇷",
-    buy: 0.0029,
-    sell: 0.00316
+    buy: 0.00292,
+    sell: 0.00317
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -334,19 +334,19 @@ const currencies = [
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
     buy: 0.422,
-    sell: 0.463
+    sell: 0.464
 },
 {
     code: "MDL Lej mołdawski",
     flag: "🇲🇩",
-    buy: 0.216,
-    sell: 0.257
+    buy: 0.217,
+    sell: 0.255
 },
 {
     code: "MKD Denar macedoński",
     flag: "🇲🇰",
     buy: 0.0742,
-    sell: 0.0793
+    sell: 0.0792
 },
 {
     code: "MMK Kiat birmański ",
@@ -381,8 +381,8 @@ const currencies = [
 {
     code: "MXN Peso meksykańskie",
     flag: "🇲🇽",
-    buy: 0.211,
-    sell: 0.245
+    buy: 0.212,
+    sell: 0.246
 },
 {
     code: "MYR Ringgit malezyjski ",
