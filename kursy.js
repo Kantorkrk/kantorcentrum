@@ -279,8 +279,8 @@ const currencies = [
 {
     code: "JOD Dinar jordański",
     flag: "🇯🇴",
-    buy: 4.88,
-    sell: 5.48
+    buy: 5.05,
+    sell: 5.60
 },
 {
     code: "JMD Dolar jamajski",
@@ -411,8 +411,8 @@ const currencies = [
 {
     code: "OMR Rial omański",
     flag: "🇴🇲",
-    buy: 9.22,
-    sell: 10.15
+    buy: 9.47,
+    sell: 10.62
 },
 {
     code: "PEN Sol peruwiański ",
@@ -459,8 +459,8 @@ const currencies = [
 {
     code: "SAR Rial saudyjski",
     flag: "🇸🇦",
-    buy: 0.957,
-    sell: 1.064
+    buy: 0.987,
+    sell: 1.07
 },
     {
     code: "SCR Rupia seszelska ",
