@@ -152,8 +152,8 @@ const currencies = [
     {
     code: "BRL Real brazylijski",
     flag: "🇧🇷",
-    buy: 0.756,
-    sell: 0.85
+    buy: 0.711,
+    sell: 0.844
 },
 {
     code: "BBD",
@@ -304,7 +304,7 @@ const currencies = [
     code: "KRW Won koreański ",
     flag: "🇰🇷",
     buy: 0.00292,
-    sell: 0.00317
+    sell: 0.00316
 },
 {
     code: "KZT Tenge kazachskie ",
@@ -333,8 +333,8 @@ const currencies = [
 {
     code: "MAD Dirham marokański",
     flag: "🇲🇦",
-    buy: 0.422,
-    sell: 0.464
+    buy: 0.421,
+    sell: 0.463
 },
 {
     code: "MDL Lej mołdawski",
@@ -381,14 +381,14 @@ const currencies = [
 {
     code: "MXN Peso meksykańskie",
     flag: "🇲🇽",
-    buy: 0.212,
-    sell: 0.246
+    buy: 0.211,
+    sell: 0.245
 },
 {
     code: "MYR Ringgit malezyjski ",
     flag: "🇲🇾",
-    buy: 0.93,
-    sell: 1.025
+    buy: 0.94,
+    sell: 1.03
 },
     {
     code: "NAD Dolar namibijski ",
@@ -406,7 +406,7 @@ const currencies = [
     code: "NZD Dolar nowozelandzki",
     flag: "🇳🇿",
     buy: 2.21,
-    sell: 2.359
+    sell: 2.367
 },
 {
     code: "OMR Rial omański",
