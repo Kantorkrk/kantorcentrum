@@ -2,44 +2,44 @@ const currencies = [
     {
         code: "EUR EURO",
         flag: "🇪🇺",
-        buy: 4.39, 
-        sell: 4.469
+        buy: 4.406, 
+        sell: 4.499
     },
      {
         code: "EUR >10k EURO",
         flag: "🇪🇺",
-        buy: 4.42,
-        sell: 4.466
+        buy: 4.435,
+        sell: 4.492
     },
     {
         code: "USD Dolar od 2009",
         flag: "🇺🇸",
-        buy: 4.01,
-        sell: 4.09
+        buy: 4.02,
+        sell: 4.099
     },
      {
         code: "USD old",
         flag: "🇺🇸",
-        buy: 3.995,
-        sell: 4.075
+        buy: 4.005,
+        sell: 4.076
     },
 {
         code: "USD 1$,2$ ",
         flag: "🇺🇸",
-        buy: 4.00,
+        buy: 4.05,
         sell: 4.29
     },
     {
         code: "GBP Funt brytyjski",
         flag: "🇬🇧",
         buy: 5.24,
-        sell: 5.32
+        sell: 5.359
     },
     {
         code: "CHF Frank szwajcarski",
         flag: "🇨🇭",
-        buy: 4.78,
-        sell: 4.855
+        buy: 4.82,
+        sell: 4.905
     },
     {
         code: "AUD Dolar australijski ",
@@ -50,14 +50,14 @@ const currencies = [
     {
         code: "CAD Dolar kanadyjski",
         flag: "🇨🇦",
-        buy: 2.77,
-        sell: 2.87
+        buy: 2.79,
+        sell: 2.884
     },
     {
         code: "CZK Korona czeska ",
         flag: "🇨🇿",
         buy: 0.1771,
-        sell: 0.1823
+        sell: 0.1829
     },
     {
         code: "DKK Korona duńska",
@@ -93,13 +93,13 @@ const currencies = [
     code: "AED Dirham ZEA  ",
     flag: "🇦🇪",
     buy: 1.01, 
-    sell: 1.098
+    sell: 1.115
 },
 {
     code: "ALL Lek albański",
     flag: "🇦🇱",
     buy: 0.0477,
-    sell: 0.0498
+    sell: 0.0499
 },
 {
     code: "AMD Dram armeński",
@@ -243,8 +243,8 @@ const currencies = [
 {
     code: "HKD Dolar hongkoński",
     flag: "🇭🇰",
-    buy: 0.466, 
-    sell: 0.528
+    buy: 0.475, 
+    sell: 0.532
 },
 {
     code: "IDR Rupia indonezyjska",
@@ -471,8 +471,8 @@ const currencies = [
     {
     code: "SGD",
     flag: "🇸🇬",
-    buy: 2.84,
-    sell: 3.085
+    buy: 2.98,
+    sell: 3.197
 },
 {
     code: "THB",
